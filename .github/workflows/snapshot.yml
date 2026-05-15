@@ -1,0 +1,72 @@
+name: snapshot
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  snapshot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Derive data branch name
+        id: branch
+        run: |
+          NAME=$(node -e "import('./lib/repo-url.mjs').then(m => import('./config.js').then(c => process.stdout.write(m.dataBranchName(c.REPO_JSON_URL))))")
+          echo "name=$NAME" >> "$GITHUB_OUTPUT"
+
+      - name: Run snapshot
+        env:
+          GH_PAT: ${{ secrets.GH_PAT }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/snapshot.mjs
+
+      - name: Stage snapshot files
+        run: |
+          mkdir -p /tmp/snapshot-staging
+          cp -r data /tmp/snapshot-staging/
+
+      - name: Checkout (or create) data branch
+        run: |
+          set -e
+          BRANCH="${{ steps.branch.outputs.name }}"
+          git config user.name "snapshot-bot"
+          git config user.email "snapshot-bot@users.noreply.github.com"
+          if git ls-remote --exit-code --heads origin "$BRANCH" >/dev/null 2>&1; then
+            git fetch origin "$BRANCH"
+            git checkout "$BRANCH"
+          else
+            git checkout --orphan "$BRANCH"
+            git rm -rf . 2>/dev/null || true
+            echo "# Snapshot data for $BRANCH" > README.md
+            git add README.md
+            git commit -m "init data branch"
+          fi
+
+      - name: Copy snapshot files
+        run: |
+          rm -rf data
+          cp -r /tmp/snapshot-staging/data .
+
+      - name: Commit and push
+        run: |
+          BRANCH="${{ steps.branch.outputs.name }}"
+          DATE=$(date -u +%Y-%m-%d)
+          git add data/
+          if git diff --cached --quiet; then
+            echo "no changes"
+            exit 0
+          fi
+          git commit -m "snapshot $DATE [skip ci]"
+          git push origin "$BRANCH"

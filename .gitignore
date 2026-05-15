@@ -1,0 +1,17 @@
+# editor / OS
+.DS_Store
+Thumbs.db
+
+# node
+node_modules/
+
+# tooling that's not part of the project
+.claude/
+.superpowers/
+
+# stray sibling directories present in this working copy
+ffmt-tf/
+ffxivmt/
+
+# data branch contents (data lives only on the repo/<name> branch, never main)
+data/

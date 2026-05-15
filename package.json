@@ -1,0 +1,14 @@
+{
+  "name": "lighthouseterror",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "test": "node --test tests/*.test.mjs",
+    "snapshot": "node scripts/snapshot.mjs",
+    "snapshot:dry": "node scripts/snapshot.mjs --dry-run --fixtures"
+  }
+}
