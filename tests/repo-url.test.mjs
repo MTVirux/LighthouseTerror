@@ -35,9 +35,9 @@ test('groupRepoSlug returns owner/repo', () => {
   assert.equal(groupRepoSlug(SAMPLE), 'MTVirux/SeaOfTerror');
 });
 
-test('rawUrl builds raw.githubusercontent URLs for the data branch', () => {
+test('rawUrl builds raw.githubusercontent URLs against the dashboard host repo, not the tracked repo', () => {
   assert.equal(
-    rawUrl(SAMPLE, 'data/latest.json'),
-    'https://raw.githubusercontent.com/MTVirux/SeaOfTerror/repo/SeaOfTerror/data/latest.json'
+    rawUrl('MTVirux/LighthouseTerror', SAMPLE, 'data/latest.json'),
+    'https://raw.githubusercontent.com/MTVirux/LighthouseTerror/repo/SeaOfTerror/data/latest.json'
   );
 });
