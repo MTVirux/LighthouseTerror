@@ -1,4 +1,4 @@
-import { REPO_JSON_URL } from '../config.js';
+import { REPO_JSON_URL, IGNORED_PLUGIN_INTERNAL_NAMES } from '../config.js';
 import { rawUrl, groupRepoSlug, dataBranchName } from '../lib/repo-url.mjs';
 import { el, mount } from './dom.js';
 import { renderTopBar } from './dashboard/topbar.js';
@@ -9,6 +9,13 @@ import { renderBanner, renderEmptyState, renderSchemaError } from './dashboard/e
 
 const NINETY_DAYS_MS = 90 * 24 * 60 * 60 * 1000;
 const app = document.getElementById('app');
+
+const IGNORED_SET = new Set(IGNORED_PLUGIN_INTERNAL_NAMES ?? []);
+
+function filterPlugins(snap) {
+  if (!snap || !Array.isArray(snap.plugins) || IGNORED_SET.size === 0) return snap;
+  return { ...snap, plugins: snap.plugins.filter((p) => !IGNORED_SET.has(p.internalName)) };
+}
 
 async function fetchJson(url) {
   const res = await fetch(url, { cache: 'no-cache' });
@@ -111,7 +118,7 @@ async function main() {
     return;
   }
   const history = await loadHistory().catch(() => []);
-  render(snap, history);
+  render(filterPlugins(snap), history.map(filterPlugins));
 }
 
 main();
