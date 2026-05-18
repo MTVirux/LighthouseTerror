@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-05-18T04:36:22.290Z",
+  "snapshotAt": "2026-05-18T04:42:23.573Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-05-18T01:20:37Z",
+    "lastCommitAt": null,
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-05-18T01:20:37Z"
+    "manifestLastModifiedAt": null
   },
   "plugins": [
     {
@@ -28,21 +28,9 @@
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
-        "ok": true,
-        "fetchedAt": "2026-05-18T04:36:22.290Z",
-        "lastCommitAt": "2026-05-06T10:02:17Z",
-        "openIssues": 0,
-        "latestRelease": {
-          "tag": "testing_1.6.1.15",
-          "publishedAt": "2026-05-06T10:02:13Z"
-        },
-        "releaseCount90d": 30,
-        "ci": {
-          "status": "none",
-          "workflow": null,
-          "runUrl": null,
-          "ranAt": null
-        }
+        "ok": false,
+        "reason": "rate_limited",
+        "fetchedAt": "2026-05-18T04:42:23.573Z"
       }
     },
     {
@@ -62,21 +50,9 @@
         "repoUrl": "https://github.com/MTVirux/MarketTerror"
       },
       "github": {
-        "ok": true,
-        "fetchedAt": "2026-05-18T04:36:22.290Z",
-        "lastCommitAt": "2026-05-02T01:12:55Z",
-        "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.0.1.0",
-          "publishedAt": "2026-05-01T14:23:04Z"
-        },
-        "releaseCount90d": 7,
-        "ci": {
-          "status": "none",
-          "workflow": null,
-          "runUrl": null,
-          "ranAt": null
-        }
+        "ok": false,
+        "reason": "rate_limited",
+        "fetchedAt": "2026-05-18T04:42:23.573Z"
       }
     },
     {
@@ -96,21 +72,9 @@
         "repoUrl": "https://github.com/MTVirux/CrystalTerror"
       },
       "github": {
-        "ok": true,
-        "fetchedAt": "2026-05-18T04:36:22.290Z",
-        "lastCommitAt": "2026-05-02T01:10:47Z",
-        "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.7.0.2",
-          "publishedAt": "2026-05-01T22:42:25Z"
-        },
-        "releaseCount90d": 8,
-        "ci": {
-          "status": "none",
-          "workflow": null,
-          "runUrl": null,
-          "ranAt": null
-        }
+        "ok": false,
+        "reason": "rate_limited",
+        "fetchedAt": "2026-05-18T04:42:23.573Z"
       }
     },
     {
@@ -130,21 +94,9 @@
         "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
       },
       "github": {
-        "ok": true,
-        "fetchedAt": "2026-05-18T04:36:22.290Z",
-        "lastCommitAt": "2026-05-17T12:23:40Z",
-        "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.1.1.6",
-          "publishedAt": "2026-05-17T12:23:36Z"
-        },
-        "releaseCount90d": 24,
-        "ci": {
-          "status": "none",
-          "workflow": null,
-          "runUrl": null,
-          "ranAt": null
-        }
+        "ok": false,
+        "reason": "rate_limited",
+        "fetchedAt": "2026-05-18T04:42:23.573Z"
       }
     },
     {
@@ -164,21 +116,9 @@
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
-        "ok": true,
-        "fetchedAt": "2026-05-18T04:36:22.290Z",
-        "lastCommitAt": "2026-05-11T21:25:25Z",
-        "openIssues": 0,
-        "latestRelease": {
-          "tag": "testing_1.2.1.7",
-          "publishedAt": "2026-05-11T21:25:21Z"
-        },
-        "releaseCount90d": 30,
-        "ci": {
-          "status": "none",
-          "workflow": null,
-          "runUrl": null,
-          "ranAt": null
-        }
+        "ok": false,
+        "reason": "rate_limited",
+        "fetchedAt": "2026-05-18T04:42:23.573Z"
       }
     },
     {
@@ -198,21 +138,9 @@
         "repoUrl": "https://github.com/marzent/IINACT"
       },
       "github": {
-        "ok": true,
-        "fetchedAt": "2026-05-18T04:36:22.290Z",
-        "lastCommitAt": "2026-05-07T21:23:39Z",
-        "openIssues": 31,
-        "latestRelease": {
-          "tag": "v2.10.1.3",
-          "publishedAt": "2026-05-07T21:23:37Z"
-        },
-        "releaseCount90d": 7,
-        "ci": {
-          "status": "success",
-          "workflow": "IINACT build",
-          "runUrl": "https://github.com/marzent/IINACT/actions/runs/25522833245",
-          "ranAt": "2026-05-07T21:23:44Z"
-        }
+        "ok": false,
+        "reason": "rate_limited",
+        "fetchedAt": "2026-05-18T04:42:23.573Z"
       }
     },
     {
@@ -232,28 +160,21 @@
         "repoUrl": "https://github.com/MTVirux/TempoTerror"
       },
       "github": {
-        "ok": true,
-        "fetchedAt": "2026-05-18T04:36:22.290Z",
-        "lastCommitAt": "2026-05-17T12:29:48Z",
-        "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.1.0.5",
-          "publishedAt": "2026-05-17T12:29:44Z"
-        },
-        "releaseCount90d": 17,
-        "ci": {
-          "status": "none",
-          "workflow": null,
-          "runUrl": null,
-          "ranAt": null
-        }
+        "ok": false,
+        "reason": "rate_limited",
+        "fetchedAt": "2026-05-18T04:42:23.573Z"
       }
     }
   ],
   "rateLimit": {
-    "remaining": 36,
+    "remaining": 2,
     "limit": 60,
-    "resetAt": "2026-05-18T04:43:16.000Z"
+    "resetAt": "2026-05-18T04:43:05.000Z"
   },
-  "errors": []
+  "errors": [
+    {
+      "stage": "rate-limited",
+      "message": "GitHub rate limit hit; resets at 2026-05-18T04:43:05.000Z"
+    }
+  ]
 }
