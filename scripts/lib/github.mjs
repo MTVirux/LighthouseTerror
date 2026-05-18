@@ -83,6 +83,7 @@ export class GithubClient {
   async getReleases(owner, name) { return this._get(`/repos/${owner}/${name}/releases?per_page=30`); }
   async getRuns(owner, name, branch) {
     const b = encodeURIComponent(branch);
-    return this._get(`/repos/${owner}/${name}/actions/runs?per_page=1&branch=${b}`);
+    const body = await this._get(`/repos/${owner}/${name}/actions/runs?per_page=1&branch=${b}`);
+    return body?.workflow_runs ?? [];
   }
 }

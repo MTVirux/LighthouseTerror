@@ -128,3 +128,20 @@ test('rate-limit-zero is not retried', async () => {
   await assert.rejects(() => c.getRepo('o', 'n'), (err) => err.name === 'RateLimitError');
   assert.equal(calls, 1);
 });
+
+test('getRuns returns the workflow_runs array, not the wrapper object', async () => {
+  const fetch = async () => jsonResponse({
+    total_count: 1,
+    workflow_runs: [{ status: 'completed', conclusion: 'success', name: 'CI', html_url: 'u', updated_at: 't' }],
+  });
+  const got = await new GithubClient({ token: null, fetch }).getRuns('o', 'n', 'main');
+  assert.ok(Array.isArray(got));
+  assert.equal(got.length, 1);
+  assert.equal(got[0].conclusion, 'success');
+});
+
+test('getRuns returns [] when workflow_runs is missing', async () => {
+  const fetch = async () => jsonResponse({ total_count: 0 });
+  const got = await new GithubClient({ token: null, fetch }).getRuns('o', 'n', 'main');
+  assert.deepEqual(got, []);
+});
