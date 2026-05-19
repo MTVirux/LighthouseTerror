@@ -56,8 +56,8 @@ jobs:
 
       - name: Copy snapshot files
         run: |
-          rm -rf data
-          cp -r /tmp/snapshot-staging/data .
+          mkdir -p data/snapshots
+          cp -r /tmp/snapshot-staging/data/. data/
 
       - name: Commit and push
         run: |
