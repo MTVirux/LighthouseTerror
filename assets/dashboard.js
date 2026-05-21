@@ -1,5 +1,5 @@
 import { REPO_JSON_URL, IGNORED_PLUGIN_INTERNAL_NAMES } from '../config.js';
-import { rawUrl, groupRepoSlug, dataBranchName } from '../lib/repo-url.mjs';
+import { rawUrl, groupRepoSlug } from '../lib/repo-url.mjs';
 import { el, mount } from './dom.js';
 import { renderTopBar } from './dashboard/topbar.js';
 import { renderHeroStats } from './dashboard/stats.js';
@@ -52,22 +52,19 @@ async function loadLatest() {
 async function loadHistory() {
   const slug = dashboardHostSlug();
   if (!slug) return [];
-  const [owner, repo] = slug.split('/');
-  const branch = dataBranchName(REPO_JSON_URL);
-  const listUrl = `https://api.github.com/repos/${owner}/${repo}/contents/data/snapshots?ref=${encodeURIComponent(branch)}`;
-  let items;
+  let manifest;
   try {
-    items = await fetchJson(listUrl);
+    manifest = await fetchJson(rawUrl(slug, REPO_JSON_URL, 'data/history.json'));
   } catch (err) {
     if (err.status === 404) return [];
     throw err;
   }
   const cutoff = Date.now() - NINETY_DAYS_MS;
-  const recent = items
-    .filter((it) => /^\d{4}-\d{2}-\d{2}\.json$/.test(it.name))
-    .filter((it) => Date.parse(it.name.replace('.json', 'T00:00:00Z')) >= cutoff)
-    .sort((a, b) => (a.name < b.name ? -1 : 1));
-  return Promise.all(recent.map((it) => fetchJson(it.download_url)));
+  const recent = (manifest.snapshots ?? [])
+    .filter((n) => /^\d{4}-\d{2}-\d{2}\.json$/.test(n))
+    .filter((n) => Date.parse(n.replace('.json', 'T00:00:00Z')) >= cutoff)
+    .sort();
+  return Promise.all(recent.map((n) => fetchJson(rawUrl(slug, REPO_JSON_URL, `data/snapshots/${n}`))));
 }
 
 function renderFooter(snap) {

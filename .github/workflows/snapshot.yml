@@ -36,6 +36,7 @@ jobs:
         run: |
           mkdir -p /tmp/snapshot-staging
           cp -r data /tmp/snapshot-staging/
+          cp scripts/write-history.mjs /tmp/snapshot-staging/
 
       - name: Checkout (or create) data branch
         run: |
@@ -58,6 +59,9 @@ jobs:
         run: |
           mkdir -p data/snapshots
           cp -r /tmp/snapshot-staging/data/. data/
+
+      - name: Generate history index
+        run: node /tmp/snapshot-staging/write-history.mjs
 
       - name: Commit and push
         run: |
