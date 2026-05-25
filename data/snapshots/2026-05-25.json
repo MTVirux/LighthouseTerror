@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-05-25T01:06:56.016Z",
+  "snapshotAt": "2026-05-25T07:47:55.559Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-25T01:06:56.016Z",
+        "fetchedAt": "2026-05-25T07:47:55.559Z",
         "lastCommitAt": "2026-05-24T21:56:56Z",
         "openIssues": 0,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-25T01:06:56.016Z",
+        "fetchedAt": "2026-05-25T07:47:55.559Z",
         "lastCommitAt": "2026-05-02T01:12:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-25T01:06:56.016Z",
+        "fetchedAt": "2026-05-25T07:47:55.559Z",
         "lastCommitAt": "2026-05-02T01:10:47Z",
         "openIssues": 0,
         "latestRelease": {
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-25T01:06:56.016Z",
+        "fetchedAt": "2026-05-25T07:47:55.559Z",
         "lastCommitAt": "2026-05-17T12:23:40Z",
         "openIssues": 0,
         "latestRelease": {
@@ -165,7 +165,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-25T01:06:56.016Z",
+        "fetchedAt": "2026-05-25T07:47:55.559Z",
         "lastCommitAt": "2026-05-23T01:14:10Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,7 +199,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-25T01:06:56.016Z",
+        "fetchedAt": "2026-05-25T07:47:55.559Z",
         "lastCommitAt": "2026-05-19T11:12:08Z",
         "openIssues": 33,
         "latestRelease": {
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-25T01:06:56.016Z",
+        "fetchedAt": "2026-05-25T07:47:55.559Z",
         "lastCommitAt": "2026-05-17T12:29:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 28,
+    "remaining": 35,
     "limit": 60,
-    "resetAt": "2026-05-25T01:23:47.000Z"
+    "resetAt": "2026-05-25T08:40:59.000Z"
   },
   "errors": []
 }
