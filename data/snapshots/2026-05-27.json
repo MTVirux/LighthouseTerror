@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-05-27T07:38:46.193Z",
+  "snapshotAt": "2026-05-27T13:24:31.136Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-05-27T02:22:10Z",
+    "lastCommitAt": "2026-05-27T10:57:12Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-05-27T02:22:10Z"
+    "manifestLastModifiedAt": "2026-05-27T10:57:12Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-27T07:38:46.193Z",
+        "fetchedAt": "2026-05-27T13:24:31.136Z",
         "lastCommitAt": "2026-05-26T07:00:44Z",
         "openIssues": 0,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-27T07:38:46.193Z",
+        "fetchedAt": "2026-05-27T13:24:31.136Z",
         "lastCommitAt": "2026-05-02T01:12:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -90,14 +90,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1777675348,
-        "downloadCount": 193,
+        "downloadCount": 194,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/CrystalTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-27T07:38:46.193Z",
+        "fetchedAt": "2026-05-27T13:24:31.136Z",
         "lastCommitAt": "2026-05-02T01:10:47Z",
         "openIssues": 0,
         "latestRelease": {
@@ -119,19 +119,19 @@
       "author": "MTVirux",
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png",
       "manifest": {
-        "stableVersion": "1.1.1.6",
-        "testingVersion": "1.1.1.6",
+        "stableVersion": "1.1.1.7",
+        "testingVersion": "1.1.1.7",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1779020619,
-        "downloadCount": 41,
+        "lastUpdate": 1779866114,
+        "downloadCount": 42,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-27T07:38:46.193Z",
+        "fetchedAt": "2026-05-27T13:24:31.136Z",
         "lastCommitAt": "2026-05-27T07:15:16Z",
         "openIssues": 0,
         "latestRelease": {
@@ -165,7 +165,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-27T07:38:46.193Z",
+        "fetchedAt": "2026-05-27T13:24:31.136Z",
         "lastCommitAt": "2026-05-23T01:14:10Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,7 +199,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-27T07:38:46.193Z",
+        "fetchedAt": "2026-05-27T13:24:31.136Z",
         "lastCommitAt": "2026-05-19T11:12:08Z",
         "openIssues": 33,
         "latestRelease": {
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-05-27T07:38:46.193Z",
+        "fetchedAt": "2026-05-27T13:24:31.136Z",
         "lastCommitAt": "2026-05-17T12:29:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 7,
+    "remaining": 38,
     "limit": 60,
-    "resetAt": "2026-05-27T07:54:54.000Z"
+    "resetAt": "2026-05-27T14:24:31.000Z"
   },
   "errors": []
 }
