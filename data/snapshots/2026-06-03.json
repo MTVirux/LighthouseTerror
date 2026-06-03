@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-06-03T13:52:31.183Z",
+  "snapshotAt": "2026-06-03T19:29:23.152Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-06-03T03:55:53Z",
+    "lastCommitAt": "2026-06-03T19:22:11Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-06-03T03:55:53Z"
+    "manifestLastModifiedAt": "2026-06-03T19:22:11Z"
   },
   "plugins": [
     {
@@ -29,8 +29,8 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-03T13:52:31.183Z",
-        "lastCommitAt": "2026-05-31T03:57:40Z",
+        "fetchedAt": "2026-06-03T19:29:23.152Z",
+        "lastCommitAt": "2026-06-03T19:26:26Z",
         "openIssues": 1,
         "latestRelease": {
           "tag": "1.6.1.18",
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-03T13:52:31.183Z",
+        "fetchedAt": "2026-06-03T19:29:23.152Z",
         "lastCommitAt": "2026-05-02T01:12:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-03T13:52:31.183Z",
+        "fetchedAt": "2026-06-03T19:29:23.152Z",
         "lastCommitAt": "2026-05-02T01:10:47Z",
         "openIssues": 0,
         "latestRelease": {
@@ -124,14 +124,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1779866114,
-        "downloadCount": 46,
+        "downloadCount": 47,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-03T13:52:31.183Z",
+        "fetchedAt": "2026-06-03T19:29:23.152Z",
         "lastCommitAt": "2026-05-27T07:15:16Z",
         "openIssues": 0,
         "latestRelease": {
@@ -153,24 +153,24 @@
       "author": "MTVirux",
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
       "manifest": {
-        "stableVersion": "1.2.1.10",
-        "testingVersion": "1.2.1.10",
+        "stableVersion": "1.2.1.11",
+        "testingVersion": "1.2.1.11",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1780421276,
-        "downloadCount": 236,
+        "lastUpdate": 1780514398,
+        "downloadCount": 238,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-03T13:52:31.183Z",
-        "lastCommitAt": "2026-06-02T17:27:58Z",
+        "fetchedAt": "2026-06-03T19:29:23.152Z",
+        "lastCommitAt": "2026-06-03T19:22:14Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "1.2.1.10",
-          "publishedAt": "2026-06-02T17:27:53Z"
+          "tag": "1.2.1.11",
+          "publishedAt": "2026-06-03T19:22:09Z"
         },
         "releaseCount90d": 30,
         "ci": {
@@ -199,9 +199,9 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-03T13:52:31.183Z",
-        "lastCommitAt": "2026-06-02T12:10:56Z",
-        "openIssues": 28,
+        "fetchedAt": "2026-06-03T19:29:23.152Z",
+        "lastCommitAt": "2026-06-03T15:02:30Z",
+        "openIssues": 26,
         "latestRelease": {
           "tag": "v2.10.2.0",
           "publishedAt": "2026-06-02T12:10:52Z"
@@ -210,8 +210,8 @@
         "ci": {
           "status": "success",
           "workflow": "IINACT build",
-          "runUrl": "https://github.com/marzent/IINACT/actions/runs/26818776700",
-          "ranAt": "2026-06-02T12:10:59Z"
+          "runUrl": "https://github.com/marzent/IINACT/actions/runs/26893531355",
+          "ranAt": "2026-06-03T15:03:25Z"
         }
       }
     },
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-03T13:52:31.183Z",
+        "fetchedAt": "2026-06-03T19:29:23.152Z",
         "lastCommitAt": "2026-05-17T12:29:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 38,
+    "remaining": 23,
     "limit": 60,
-    "resetAt": "2026-06-03T14:52:31.000Z"
+    "resetAt": "2026-06-03T19:48:27.000Z"
   },
   "errors": []
 }
