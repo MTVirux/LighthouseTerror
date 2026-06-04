@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-06-04T07:49:14.529Z",
+  "snapshotAt": "2026-06-04T13:19:05.854Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-06-04T07:07:47Z",
+    "lastCommitAt": "2026-06-04T12:26:40Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-06-04T07:07:47Z"
+    "manifestLastModifiedAt": "2026-06-04T12:26:40Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1780534977,
-        "downloadCount": 680,
+        "downloadCount": 682,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-04T07:49:14.529Z",
+        "fetchedAt": "2026-06-04T13:19:05.854Z",
         "lastCommitAt": "2026-06-04T01:02:59Z",
         "openIssues": 1,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-04T07:49:14.529Z",
+        "fetchedAt": "2026-06-04T13:19:05.854Z",
         "lastCommitAt": "2026-05-02T01:12:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-04T07:49:14.529Z",
+        "fetchedAt": "2026-06-04T13:19:05.854Z",
         "lastCommitAt": "2026-05-02T01:10:47Z",
         "openIssues": 0,
         "latestRelease": {
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-04T07:49:14.529Z",
+        "fetchedAt": "2026-06-04T13:19:05.854Z",
         "lastCommitAt": "2026-05-27T07:15:16Z",
         "openIssues": 0,
         "latestRelease": {
@@ -158,14 +158,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1780514532,
-        "downloadCount": 249,
+        "downloadCount": 250,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-04T07:49:14.529Z",
+        "fetchedAt": "2026-06-04T13:19:05.854Z",
         "lastCommitAt": "2026-06-03T19:22:14Z",
         "openIssues": 0,
         "latestRelease": {
@@ -187,8 +187,8 @@
       "author": "Usagi",
       "iconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
       "manifest": {
-        "stableVersion": "2.10.2.0",
-        "testingVersion": "2.10.2.0",
+        "stableVersion": "2.10.3.0",
+        "testingVersion": "2.10.3.0",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": null,
         "lastUpdate": null,
@@ -199,19 +199,19 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-04T07:49:14.529Z",
-        "lastCommitAt": "2026-06-03T15:02:30Z",
-        "openIssues": 24,
+        "fetchedAt": "2026-06-04T13:19:05.854Z",
+        "lastCommitAt": "2026-06-04T08:05:03Z",
+        "openIssues": 23,
         "latestRelease": {
-          "tag": "v2.10.2.0",
-          "publishedAt": "2026-06-02T12:10:52Z"
+          "tag": "v2.10.3.0",
+          "publishedAt": "2026-06-04T08:05:00Z"
         },
-        "releaseCount90d": 8,
+        "releaseCount90d": 9,
         "ci": {
           "status": "success",
           "workflow": "IINACT build",
-          "runUrl": "https://github.com/marzent/IINACT/actions/runs/26893531355",
-          "ranAt": "2026-06-03T15:03:25Z"
+          "runUrl": "https://github.com/marzent/IINACT/actions/runs/26939121443",
+          "ranAt": "2026-06-04T08:05:07Z"
         }
       }
     },
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-04T07:49:14.529Z",
+        "fetchedAt": "2026-06-04T13:19:05.854Z",
         "lastCommitAt": "2026-05-17T12:29:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 15,
+    "remaining": 32,
     "limit": 60,
-    "resetAt": "2026-06-04T08:08:30.000Z"
+    "resetAt": "2026-06-04T13:43:26.000Z"
   },
   "errors": []
 }
