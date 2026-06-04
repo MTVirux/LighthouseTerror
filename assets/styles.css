@@ -84,6 +84,8 @@ table.plugins tr:hover td { background: var(--bg-elev); }
 .picon { width: 22px; height: 22px; border-radius: 4px; background: var(--border-strong); flex-shrink: 0; object-fit: cover; }
 .pname-l { display: flex; flex-direction: column; }
 .pname-t { font-weight: 500; }
+a.pname-t { color: inherit; text-decoration: none; }
+a.pname-t:hover { color: var(--accent); text-decoration: underline; }
 .pname-s { font-size: 10px; color: var(--dim); font-family: var(--mono); }
 
 .ver { font-family: var(--mono); font-size: 11px; }

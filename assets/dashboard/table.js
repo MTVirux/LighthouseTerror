@@ -54,18 +54,34 @@ function ghVal(p, fn) {
   return fn(p.github);
 }
 
+// repoUrl comes from third-party manifests; only allow http(s) hrefs so a
+// crafted javascript: URI can't execute when the name link is clicked.
+function safeHref(url) {
+  if (!url) return null;
+  try {
+    const u = new URL(url);
+    return u.protocol === 'https:' || u.protocol === 'http:' ? u.href : null;
+  } catch {
+    return null;
+  }
+}
+
 export function renderPluginTable(snap) {
   const maxApi = Math.max(0, ...snap.plugins.map((p) => p.manifest.dalamudApiLevel ?? 0));
   const rows = snap.plugins.map((p) => {
     const updateDays = daysSince(p.manifest.lastUpdate);
     const commitDays = p.github?.ok ? daysSince(p.github.lastCommitAt) : null;
     const icon = el('img', { class: 'picon', src: p.iconUrl ?? '', alt: '', onerror: function () { this.style.visibility = 'hidden'; } });
+    const repoUrl = safeHref(p.manifest.repoUrl);
+    const title = repoUrl
+      ? el('a', { class: 'pname-t', href: repoUrl, target: '_blank', rel: 'noopener noreferrer', title: 'Open repository' }, p.name)
+      : el('div', { class: 'pname-t' }, p.name);
     return el('tr', null,
       el('td', null,
         el('div', { class: 'pname' },
           icon,
           el('div', { class: 'pname-l' },
-            el('div', { class: 'pname-t' }, p.name),
+            title,
             el('div', { class: 'pname-s' }, p.internalName),
           ),
         ),
