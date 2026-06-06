@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-06-06T12:37:55.340Z",
+  "snapshotAt": "2026-06-06T18:35:07.691Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-06-06T11:57:31Z",
+    "lastCommitAt": "2026-06-06T17:19:58Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-06-06T11:57:31Z"
+    "manifestLastModifiedAt": "2026-06-06T17:19:58Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1780620458,
-        "downloadCount": 697,
+        "downloadCount": 698,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-06T12:37:55.340Z",
+        "fetchedAt": "2026-06-06T18:35:07.691Z",
         "lastCommitAt": "2026-06-05T00:47:40Z",
         "openIssues": 1,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-06T12:37:55.340Z",
+        "fetchedAt": "2026-06-06T18:35:07.691Z",
         "lastCommitAt": "2026-05-02T01:12:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-06T12:37:55.340Z",
+        "fetchedAt": "2026-06-06T18:35:07.691Z",
         "lastCommitAt": "2026-05-02T01:10:47Z",
         "openIssues": 0,
         "latestRelease": {
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-06T12:37:55.340Z",
+        "fetchedAt": "2026-06-06T18:35:07.691Z",
         "lastCommitAt": "2026-05-27T07:15:16Z",
         "openIssues": 0,
         "latestRelease": {
@@ -158,14 +158,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1780654755,
-        "downloadCount": 263,
+        "downloadCount": 264,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-06T12:37:55.340Z",
+        "fetchedAt": "2026-06-06T18:35:07.691Z",
         "lastCommitAt": "2026-06-05T10:19:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,7 +199,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-06T12:37:55.340Z",
+        "fetchedAt": "2026-06-06T18:35:07.691Z",
         "lastCommitAt": "2026-06-04T08:05:03Z",
         "openIssues": 23,
         "latestRelease": {
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-06T12:37:55.340Z",
+        "fetchedAt": "2026-06-06T18:35:07.691Z",
         "lastCommitAt": "2026-05-17T12:29:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -253,7 +253,7 @@
   "rateLimit": {
     "remaining": 38,
     "limit": 60,
-    "resetAt": "2026-06-06T13:37:55.000Z"
+    "resetAt": "2026-06-06T19:35:07.000Z"
   },
   "errors": []
 }
