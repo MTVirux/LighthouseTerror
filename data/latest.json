@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-06-09T01:03:39.684Z",
+  "snapshotAt": "2026-06-09T07:26:21.838Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-06-08T17:37:46Z",
+    "lastCommitAt": "2026-06-09T01:18:23Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-06-08T17:37:46Z"
+    "manifestLastModifiedAt": "2026-06-09T01:18:23Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1780879780,
-        "downloadCount": 709,
+        "downloadCount": 710,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-09T01:03:39.684Z",
+        "fetchedAt": "2026-06-09T07:26:21.838Z",
         "lastCommitAt": "2026-06-08T00:49:42Z",
         "openIssues": 1,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-09T01:03:39.684Z",
+        "fetchedAt": "2026-06-09T07:26:21.838Z",
         "lastCommitAt": "2026-05-02T01:12:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-09T01:03:39.684Z",
+        "fetchedAt": "2026-06-09T07:26:21.838Z",
         "lastCommitAt": "2026-05-02T01:10:47Z",
         "openIssues": 0,
         "latestRelease": {
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-09T01:03:39.684Z",
+        "fetchedAt": "2026-06-09T07:26:21.838Z",
         "lastCommitAt": "2026-05-27T07:15:16Z",
         "openIssues": 0,
         "latestRelease": {
@@ -165,7 +165,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-09T01:03:39.684Z",
+        "fetchedAt": "2026-06-09T07:26:21.838Z",
         "lastCommitAt": "2026-06-05T10:19:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,7 +199,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-09T01:03:39.684Z",
+        "fetchedAt": "2026-06-09T07:26:21.838Z",
         "lastCommitAt": "2026-06-04T08:05:03Z",
         "openIssues": 23,
         "latestRelease": {
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-09T01:03:39.684Z",
+        "fetchedAt": "2026-06-09T07:26:21.838Z",
         "lastCommitAt": "2026-05-17T12:29:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 36,
+    "remaining": 24,
     "limit": 60,
-    "resetAt": "2026-06-09T01:53:36.000Z"
+    "resetAt": "2026-06-09T07:37:41.000Z"
   },
   "errors": []
 }
