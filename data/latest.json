@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-06-18T01:12:54.146Z",
+  "snapshotAt": "2026-06-18T07:54:18.973Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-06-17T21:13:12Z",
+    "lastCommitAt": "2026-06-18T06:23:39Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-06-17T21:13:12Z"
+    "manifestLastModifiedAt": "2026-06-18T06:23:39Z"
   },
   "plugins": [
     {
@@ -17,24 +17,24 @@
       "author": "MTVirux",
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png",
       "manifest": {
-        "stableVersion": "1.6.1.24",
+        "stableVersion": "1.6.1.25",
         "testingVersion": "1.6.1.25",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1781719607,
-        "downloadCount": 757,
+        "lastUpdate": 1781758072,
+        "downloadCount": 759,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-18T01:12:54.146Z",
-        "lastCommitAt": "2026-06-17T18:06:49Z",
+        "fetchedAt": "2026-06-18T07:54:18.973Z",
+        "lastCommitAt": "2026-06-18T04:47:54Z",
         "openIssues": 1,
         "latestRelease": {
-          "tag": "testing_1.6.1.25",
-          "publishedAt": "2026-06-17T18:06:44Z"
+          "tag": "1.6.1.25",
+          "publishedAt": "2026-06-18T04:47:50Z"
         },
         "releaseCount90d": 30,
         "ci": {
@@ -51,26 +51,26 @@
       "author": "MTVirux",
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png",
       "manifest": {
-        "stableVersion": "1.0.1.0",
+        "stableVersion": "1.0.1.1",
         "testingVersion": "1.0.1.1",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1781280032,
-        "downloadCount": 134,
+        "lastUpdate": 1781758096,
+        "downloadCount": 135,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/MarketTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-18T01:12:54.146Z",
-        "lastCommitAt": "2026-06-12T16:00:34Z",
+        "fetchedAt": "2026-06-18T07:54:18.973Z",
+        "lastCommitAt": "2026-06-18T04:48:18Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "testing_1.0.1.1",
-          "publishedAt": "2026-06-12T16:00:30Z"
+          "tag": "1.0.1.1",
+          "publishedAt": "2026-06-18T04:48:14Z"
         },
-        "releaseCount90d": 8,
+        "releaseCount90d": 9,
         "ci": {
           "status": "none",
           "workflow": null,
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-18T01:12:54.146Z",
+        "fetchedAt": "2026-06-18T07:54:18.973Z",
         "lastCommitAt": "2026-06-12T16:10:19Z",
         "openIssues": 0,
         "latestRelease": {
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-18T01:12:54.146Z",
+        "fetchedAt": "2026-06-18T07:54:18.973Z",
         "lastCommitAt": "2026-06-12T16:55:03Z",
         "openIssues": 0,
         "latestRelease": {
@@ -165,7 +165,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-18T01:12:54.146Z",
+        "fetchedAt": "2026-06-18T07:54:18.973Z",
         "lastCommitAt": "2026-06-12T17:13:00Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,7 +199,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-18T01:12:54.146Z",
+        "fetchedAt": "2026-06-18T07:54:18.973Z",
         "lastCommitAt": "2026-06-12T19:14:13Z",
         "openIssues": 25,
         "latestRelease": {
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-18T01:12:54.146Z",
+        "fetchedAt": "2026-06-18T07:54:18.973Z",
         "lastCommitAt": "2026-06-12T17:22:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 38,
+    "remaining": 32,
     "limit": 60,
-    "resetAt": "2026-06-18T02:12:54.000Z"
+    "resetAt": "2026-06-18T08:04:26.000Z"
   },
   "errors": []
 }
