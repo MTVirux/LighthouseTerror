@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-06-23T07:26:20.069Z",
+  "snapshotAt": "2026-06-23T13:09:19.289Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-06-23T02:12:31Z",
+    "lastCommitAt": "2026-06-23T12:32:48Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-06-23T02:12:31Z"
+    "manifestLastModifiedAt": "2026-06-23T12:32:48Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-23T07:26:20.069Z",
+        "fetchedAt": "2026-06-23T13:09:19.289Z",
         "lastCommitAt": "2026-06-18T04:47:54Z",
         "openIssues": 0,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-23T07:26:20.069Z",
+        "fetchedAt": "2026-06-23T13:09:19.289Z",
         "lastCommitAt": "2026-06-18T04:48:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-23T07:26:20.069Z",
+        "fetchedAt": "2026-06-23T13:09:19.289Z",
         "lastCommitAt": "2026-06-12T16:10:19Z",
         "openIssues": 0,
         "latestRelease": {
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-23T07:26:20.069Z",
+        "fetchedAt": "2026-06-23T13:09:19.289Z",
         "lastCommitAt": "2026-06-19T08:22:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -165,7 +165,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-23T07:26:20.069Z",
+        "fetchedAt": "2026-06-23T13:09:19.289Z",
         "lastCommitAt": "2026-06-12T17:13:00Z",
         "openIssues": 0,
         "latestRelease": {
@@ -187,8 +187,8 @@
       "author": "Usagi",
       "iconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
       "manifest": {
-        "stableVersion": "2.10.3.1",
-        "testingVersion": "2.10.3.1",
+        "stableVersion": "2.10.3.2",
+        "testingVersion": "2.10.3.2",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": null,
         "lastUpdate": null,
@@ -199,19 +199,19 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-23T07:26:20.069Z",
-        "lastCommitAt": "2026-06-12T19:14:13Z",
+        "fetchedAt": "2026-06-23T13:09:19.289Z",
+        "lastCommitAt": "2026-06-23T11:38:56Z",
         "openIssues": 25,
         "latestRelease": {
-          "tag": "v2.10.3.1",
-          "publishedAt": "2026-06-12T19:14:11Z"
+          "tag": "v2.10.3.2",
+          "publishedAt": "2026-06-23T11:38:54Z"
         },
-        "releaseCount90d": 7,
+        "releaseCount90d": 8,
         "ci": {
-          "status": "none",
+          "status": "success",
           "workflow": "IINACT build",
-          "runUrl": "https://github.com/marzent/IINACT/actions/runs/27522330055",
-          "ranAt": "2026-06-15T03:32:36Z"
+          "runUrl": "https://github.com/marzent/IINACT/actions/runs/28023396423",
+          "ranAt": "2026-06-23T11:39:00Z"
         }
       }
     },
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-23T07:26:20.069Z",
+        "fetchedAt": "2026-06-23T13:09:19.289Z",
         "lastCommitAt": "2026-06-12T17:22:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 38,
+    "remaining": 34,
     "limit": 60,
-    "resetAt": "2026-06-23T08:26:20.000Z"
+    "resetAt": "2026-06-23T13:51:51.000Z"
   },
   "errors": []
 }
