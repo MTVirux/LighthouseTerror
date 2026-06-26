@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-06-26T12:53:15.841Z",
+  "snapshotAt": "2026-06-26T18:45:07.992Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-26T12:53:15.841Z",
+        "fetchedAt": "2026-06-26T18:45:07.992Z",
         "lastCommitAt": "2026-06-18T04:47:54Z",
         "openIssues": 0,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-26T12:53:15.841Z",
+        "fetchedAt": "2026-06-26T18:45:07.992Z",
         "lastCommitAt": "2026-06-18T04:48:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-26T12:53:15.841Z",
+        "fetchedAt": "2026-06-26T18:45:07.992Z",
         "lastCommitAt": "2026-06-12T16:10:19Z",
         "openIssues": 0,
         "latestRelease": {
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-26T12:53:15.841Z",
+        "fetchedAt": "2026-06-26T18:45:07.992Z",
         "lastCommitAt": "2026-06-19T08:22:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -165,7 +165,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-26T12:53:15.841Z",
+        "fetchedAt": "2026-06-26T18:45:07.992Z",
         "lastCommitAt": "2026-06-12T17:13:00Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,9 +199,9 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-26T12:53:15.841Z",
+        "fetchedAt": "2026-06-26T18:45:07.992Z",
         "lastCommitAt": "2026-06-23T11:38:56Z",
-        "openIssues": 25,
+        "openIssues": 26,
         "latestRelease": {
           "tag": "v2.10.3.2",
           "publishedAt": "2026-06-23T11:38:54Z"
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-06-26T12:53:15.841Z",
+        "fetchedAt": "2026-06-26T18:45:07.992Z",
         "lastCommitAt": "2026-06-12T17:22:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -253,7 +253,7 @@
   "rateLimit": {
     "remaining": 37,
     "limit": 60,
-    "resetAt": "2026-06-26T13:11:15.000Z"
+    "resetAt": "2026-06-26T19:13:07.000Z"
   },
   "errors": []
 }
