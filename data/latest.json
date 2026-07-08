@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-08T12:41:33.031Z",
+  "snapshotAt": "2026-07-08T18:35:37.580Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-07-08T09:56:23Z",
+    "lastCommitAt": "2026-07-08T18:25:28Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-07-08T09:56:23Z"
+    "manifestLastModifiedAt": "2026-07-08T18:25:28Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-08T12:41:33.031Z",
+        "fetchedAt": "2026-07-08T18:35:37.580Z",
         "lastCommitAt": "2026-06-18T04:47:54Z",
         "openIssues": 0,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-08T12:41:33.031Z",
+        "fetchedAt": "2026-07-08T18:35:37.580Z",
         "lastCommitAt": "2026-06-18T04:48:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -90,14 +90,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1783496821,
-        "downloadCount": 200,
+        "downloadCount": 202,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/CrystalTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-08T12:41:33.031Z",
+        "fetchedAt": "2026-07-08T18:35:37.580Z",
         "lastCommitAt": "2026-07-08T07:47:03Z",
         "openIssues": 0,
         "latestRelease": {
@@ -124,14 +124,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1783496841,
-        "downloadCount": 58,
+        "downloadCount": 60,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-08T12:41:33.031Z",
+        "fetchedAt": "2026-07-08T18:35:37.580Z",
         "lastCommitAt": "2026-07-08T07:47:22Z",
         "openIssues": 0,
         "latestRelease": {
@@ -158,14 +158,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1783496832,
-        "downloadCount": 310,
+        "downloadCount": 318,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-08T12:41:33.031Z",
+        "fetchedAt": "2026-07-08T18:35:37.580Z",
         "lastCommitAt": "2026-07-08T07:47:14Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,7 +199,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-08T12:41:33.031Z",
+        "fetchedAt": "2026-07-08T18:35:37.580Z",
         "lastCommitAt": "2026-06-23T11:38:56Z",
         "openIssues": 26,
         "latestRelease": {
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-08T12:41:33.031Z",
+        "fetchedAt": "2026-07-08T18:35:37.580Z",
         "lastCommitAt": "2026-06-12T17:22:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 38,
+    "remaining": 36,
     "limit": 60,
-    "resetAt": "2026-07-08T13:41:33.000Z"
+    "resetAt": "2026-07-08T19:12:43.000Z"
   },
   "errors": []
 }
