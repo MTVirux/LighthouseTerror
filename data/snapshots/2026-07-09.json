@@ -1,25 +1,259 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-09T00:50:05.154Z",
+  "snapshotAt": "2026-07-09T07:25:37.885Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": null,
+    "lastCommitAt": "2026-07-09T05:45:48Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": null
+    "manifestLastModifiedAt": "2026-07-09T05:45:48Z"
   },
-  "plugins": [],
-  "rateLimit": {
-    "remaining": null,
-    "limit": null,
-    "resetAt": null
-  },
-  "errors": [
+  "plugins": [
     {
-      "stage": "fetch-manifest",
-      "message": "Manifest fetch https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json -> HTTP 429"
+      "internalName": "GlamorousTerror",
+      "name": "Glamourous Terror",
+      "author": "MTVirux",
+      "iconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png",
+      "manifest": {
+        "stableVersion": "1.6.1.25",
+        "testingVersion": "1.6.1.25",
+        "dalamudApiLevel": 15,
+        "testingDalamudApiLevel": 15,
+        "lastUpdate": 1781758072,
+        "downloadCount": 817,
+        "isHide": false,
+        "isTestingExclusive": false,
+        "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
+      },
+      "github": {
+        "ok": true,
+        "fetchedAt": "2026-07-09T07:25:37.885Z",
+        "lastCommitAt": "2026-06-18T04:47:54Z",
+        "openIssues": 0,
+        "latestRelease": {
+          "tag": "1.6.1.25",
+          "publishedAt": "2026-06-18T04:47:50Z"
+        },
+        "releaseCount90d": 30,
+        "ci": {
+          "status": "none",
+          "workflow": null,
+          "runUrl": null,
+          "ranAt": null
+        }
+      }
+    },
+    {
+      "internalName": "MarketTerror",
+      "name": "Market Terror",
+      "author": "MTVirux",
+      "iconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png",
+      "manifest": {
+        "stableVersion": "1.0.1.1",
+        "testingVersion": "1.0.1.1",
+        "dalamudApiLevel": 15,
+        "testingDalamudApiLevel": 15,
+        "lastUpdate": 1781758096,
+        "downloadCount": 145,
+        "isHide": false,
+        "isTestingExclusive": false,
+        "repoUrl": "https://github.com/MTVirux/MarketTerror"
+      },
+      "github": {
+        "ok": true,
+        "fetchedAt": "2026-07-09T07:25:37.885Z",
+        "lastCommitAt": "2026-06-18T04:48:18Z",
+        "openIssues": 0,
+        "latestRelease": {
+          "tag": "1.0.1.1",
+          "publishedAt": "2026-06-18T04:48:14Z"
+        },
+        "releaseCount90d": 7,
+        "ci": {
+          "status": "none",
+          "workflow": null,
+          "runUrl": null,
+          "ranAt": null
+        }
+      }
+    },
+    {
+      "internalName": "CrystalTerror",
+      "name": "Crystal Terror",
+      "author": "MTVirux",
+      "iconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png",
+      "manifest": {
+        "stableVersion": "1.7.0.6",
+        "testingVersion": "1.7.0.6",
+        "dalamudApiLevel": 15,
+        "testingDalamudApiLevel": 15,
+        "lastUpdate": 1783496821,
+        "downloadCount": 202,
+        "isHide": false,
+        "isTestingExclusive": false,
+        "repoUrl": "https://github.com/MTVirux/CrystalTerror"
+      },
+      "github": {
+        "ok": true,
+        "fetchedAt": "2026-07-09T07:25:37.885Z",
+        "lastCommitAt": "2026-07-08T07:47:03Z",
+        "openIssues": 0,
+        "latestRelease": {
+          "tag": "1.7.0.6",
+          "publishedAt": "2026-07-08T07:46:59Z"
+        },
+        "releaseCount90d": 12,
+        "ci": {
+          "status": "none",
+          "workflow": null,
+          "runUrl": null,
+          "ranAt": null
+        }
+      }
+    },
+    {
+      "internalName": "Kaleidoscope",
+      "name": "Kaleidoscope",
+      "author": "MTVirux",
+      "iconUrl": "https://raw.githubusercontent.com/MTVirux/Kaleidoscope/main/images/icon.png",
+      "manifest": {
+        "stableVersion": "1.1.1.10",
+        "testingVersion": "1.1.1.10",
+        "dalamudApiLevel": 15,
+        "testingDalamudApiLevel": 15,
+        "lastUpdate": 1783496841,
+        "downloadCount": 60,
+        "isHide": false,
+        "isTestingExclusive": false,
+        "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
+      },
+      "github": {
+        "ok": true,
+        "fetchedAt": "2026-07-09T07:25:37.885Z",
+        "lastCommitAt": "2026-07-08T07:47:22Z",
+        "openIssues": 0,
+        "latestRelease": {
+          "tag": "1.1.1.10",
+          "publishedAt": "2026-07-08T07:47:17Z"
+        },
+        "releaseCount90d": 22,
+        "ci": {
+          "status": "none",
+          "workflow": null,
+          "runUrl": null,
+          "ranAt": null
+        }
+      }
+    },
+    {
+      "internalName": "DamageTerror",
+      "name": "Damage Terror",
+      "author": "MTVirux",
+      "iconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
+      "manifest": {
+        "stableVersion": "1.2.1.16",
+        "testingVersion": "1.2.1.17",
+        "dalamudApiLevel": 15,
+        "testingDalamudApiLevel": 15,
+        "lastUpdate": 1783541950,
+        "downloadCount": 321,
+        "isHide": false,
+        "isTestingExclusive": false,
+        "repoUrl": "https://github.com/MTVirux/DamageTerror"
+      },
+      "github": {
+        "ok": true,
+        "fetchedAt": "2026-07-09T07:25:37.885Z",
+        "lastCommitAt": "2026-07-08T20:19:11Z",
+        "openIssues": 0,
+        "latestRelease": {
+          "tag": "1.2.1.16",
+          "publishedAt": "2026-07-08T07:47:10Z"
+        },
+        "releaseCount90d": 30,
+        "ci": {
+          "status": "none",
+          "workflow": null,
+          "runUrl": null,
+          "ranAt": null
+        }
+      }
+    },
+    {
+      "internalName": "IINACT",
+      "name": "IINACT",
+      "author": "Usagi",
+      "iconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
+      "manifest": {
+        "stableVersion": "2.10.3.2",
+        "testingVersion": "2.10.3.2",
+        "dalamudApiLevel": 15,
+        "testingDalamudApiLevel": null,
+        "lastUpdate": null,
+        "downloadCount": 0,
+        "isHide": false,
+        "isTestingExclusive": false,
+        "repoUrl": "https://github.com/marzent/IINACT"
+      },
+      "github": {
+        "ok": true,
+        "fetchedAt": "2026-07-09T07:25:37.885Z",
+        "lastCommitAt": "2026-06-23T11:38:56Z",
+        "openIssues": 26,
+        "latestRelease": {
+          "tag": "v2.10.3.2",
+          "publishedAt": "2026-06-23T11:38:54Z"
+        },
+        "releaseCount90d": 8,
+        "ci": {
+          "status": "success",
+          "workflow": "IINACT build",
+          "runUrl": "https://github.com/marzent/IINACT/actions/runs/28033026938",
+          "ranAt": "2026-06-23T15:14:32Z"
+        }
+      }
+    },
+    {
+      "internalName": "TempoTerror",
+      "name": "TempoTerror",
+      "author": "MTVirux",
+      "iconUrl": "https://raw.githubusercontent.com/MTVirux/TempoTerror/main/images/icon.png",
+      "manifest": {
+        "stableVersion": "1.1.0.6",
+        "testingVersion": "1.1.0.6",
+        "dalamudApiLevel": 15,
+        "testingDalamudApiLevel": 15,
+        "lastUpdate": 1781284943,
+        "downloadCount": 34,
+        "isHide": false,
+        "isTestingExclusive": false,
+        "repoUrl": "https://github.com/MTVirux/TempoTerror"
+      },
+      "github": {
+        "ok": true,
+        "fetchedAt": "2026-07-09T07:25:37.885Z",
+        "lastCommitAt": "2026-06-12T17:22:24Z",
+        "openIssues": 0,
+        "latestRelease": {
+          "tag": "1.1.0.6",
+          "publishedAt": "2026-06-12T17:22:21Z"
+        },
+        "releaseCount90d": 14,
+        "ci": {
+          "status": "none",
+          "workflow": null,
+          "runUrl": null,
+          "ranAt": null
+        }
+      }
     }
-  ]
+  ],
+  "rateLimit": {
+    "remaining": 38,
+    "limit": 60,
+    "resetAt": "2026-07-09T08:25:38.000Z"
+  },
+  "errors": []
 }
