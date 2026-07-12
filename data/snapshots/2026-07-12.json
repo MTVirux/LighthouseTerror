@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-12T00:47:45.902Z",
+  "snapshotAt": "2026-07-12T06:59:58.302Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-07-11T23:09:38Z",
+    "lastCommitAt": "2026-07-12T02:38:12Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-07-11T23:09:38Z"
+    "manifestLastModifiedAt": "2026-07-12T02:38:12Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-12T00:47:45.902Z",
+        "fetchedAt": "2026-07-12T06:59:58.302Z",
         "lastCommitAt": "2026-06-18T04:47:54Z",
         "openIssues": 0,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-12T00:47:45.902Z",
+        "fetchedAt": "2026-07-12T06:59:58.302Z",
         "lastCommitAt": "2026-06-18T04:48:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -86,10 +86,10 @@
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png",
       "manifest": {
         "stableVersion": "1.7.0.6",
-        "testingVersion": "1.7.0.6",
+        "testingVersion": "1.7.0.7",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1783496821,
+        "lastUpdate": 1783823600,
         "downloadCount": 204,
         "isHide": false,
         "isTestingExclusive": false,
@@ -97,14 +97,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-12T00:47:45.902Z",
-        "lastCommitAt": "2026-07-08T07:47:03Z",
+        "fetchedAt": "2026-07-12T06:59:58.302Z",
+        "lastCommitAt": "2026-07-12T02:33:22Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "1.7.0.6",
-          "publishedAt": "2026-07-08T07:46:59Z"
+          "tag": "testing_1.7.0.7",
+          "publishedAt": "2026-07-12T02:33:18Z"
         },
-        "releaseCount90d": 10,
+        "releaseCount90d": 11,
         "ci": {
           "status": "none",
           "workflow": null,
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-12T00:47:45.902Z",
+        "fetchedAt": "2026-07-12T06:59:58.302Z",
         "lastCommitAt": "2026-07-08T07:47:22Z",
         "openIssues": 0,
         "latestRelease": {
@@ -165,7 +165,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-12T00:47:45.902Z",
+        "fetchedAt": "2026-07-12T06:59:58.302Z",
         "lastCommitAt": "2026-07-08T20:19:11Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,7 +199,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-12T00:47:45.902Z",
+        "fetchedAt": "2026-07-12T06:59:58.302Z",
         "lastCommitAt": "2026-06-23T11:38:56Z",
         "openIssues": 26,
         "latestRelease": {
@@ -233,7 +233,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-12T00:47:45.902Z",
+        "fetchedAt": "2026-07-12T06:59:58.302Z",
         "lastCommitAt": "2026-06-12T17:22:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 34,
+    "remaining": 37,
     "limit": 60,
-    "resetAt": "2026-07-12T01:06:57.000Z"
+    "resetAt": "2026-07-12T07:50:42.000Z"
   },
   "errors": []
 }
