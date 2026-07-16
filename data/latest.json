@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-16T12:40:48.255Z",
+  "snapshotAt": "2026-07-16T18:30:29.289Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-07-15T23:26:01Z",
+    "lastCommitAt": "2026-07-16T17:25:31Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-07-15T23:26:01Z"
+    "manifestLastModifiedAt": "2026-07-16T17:25:31Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1781758072,
-        "downloadCount": 822,
+        "downloadCount": 823,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-16T12:40:48.255Z",
+        "fetchedAt": "2026-07-16T18:30:29.289Z",
         "lastCommitAt": "2026-06-18T04:47:54Z",
         "openIssues": 0,
         "latestRelease": {
@@ -63,7 +63,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-16T12:40:48.255Z",
+        "fetchedAt": "2026-07-16T18:30:29.289Z",
         "lastCommitAt": "2026-06-18T04:48:18Z",
         "openIssues": 0,
         "latestRelease": {
@@ -97,7 +97,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-16T12:40:48.255Z",
+        "fetchedAt": "2026-07-16T18:30:29.289Z",
         "lastCommitAt": "2026-07-12T02:33:22Z",
         "openIssues": 0,
         "latestRelease": {
@@ -131,7 +131,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-16T12:40:48.255Z",
+        "fetchedAt": "2026-07-16T18:30:29.289Z",
         "lastCommitAt": "2026-07-08T07:47:22Z",
         "openIssues": 0,
         "latestRelease": {
@@ -165,7 +165,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-16T12:40:48.255Z",
+        "fetchedAt": "2026-07-16T18:30:29.289Z",
         "lastCommitAt": "2026-07-08T20:19:11Z",
         "openIssues": 0,
         "latestRelease": {
@@ -199,7 +199,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-16T12:40:48.255Z",
+        "fetchedAt": "2026-07-16T18:30:29.289Z",
         "lastCommitAt": "2026-06-23T11:38:56Z",
         "openIssues": 26,
         "latestRelease": {
@@ -226,14 +226,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1781284943,
-        "downloadCount": 34,
+        "downloadCount": 35,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TempoTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-16T12:40:48.255Z",
+        "fetchedAt": "2026-07-16T18:30:29.289Z",
         "lastCommitAt": "2026-06-12T17:22:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -251,9 +251,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 34,
+    "remaining": 23,
     "limit": 60,
-    "resetAt": "2026-07-16T12:41:43.000Z"
+    "resetAt": "2026-07-16T18:31:37.000Z"
   },
   "errors": []
 }
