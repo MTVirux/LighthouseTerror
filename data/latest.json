@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-18T12:24:04.286Z",
+  "snapshotAt": "2026-07-18T18:23:17.690Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-07-18T04:32:41Z",
+    "lastCommitAt": "2026-07-18T17:40:33Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-07-18T04:32:41Z"
+    "manifestLastModifiedAt": "2026-07-18T17:40:33Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1781758072,
-        "downloadCount": 823,
+        "downloadCount": 824,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-18T12:24:04.286Z",
+        "fetchedAt": "2026-07-18T18:23:17.690Z",
         "lastCommitAt": "2026-07-17T21:13:05Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-18T12:24:04.286Z",
+        "fetchedAt": "2026-07-18T18:23:17.690Z",
         "lastCommitAt": "2026-07-17T21:12:47Z",
         "openIssues": 0,
         "latestRelease": {
@@ -98,14 +98,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1784340391,
-        "downloadCount": 208,
+        "downloadCount": 211,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/CrystalTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-18T12:24:04.286Z",
+        "fetchedAt": "2026-07-18T18:23:17.690Z",
         "lastCommitAt": "2026-07-18T02:06:33Z",
         "openIssues": 0,
         "latestRelease": {
@@ -114,7 +114,7 @@
         },
         "releaseCount90d": 12,
         "releaseDownloads": {
-          "stable": 0,
+          "stable": 3,
           "testing": null
         },
         "ci": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-18T12:24:04.286Z",
+        "fetchedAt": "2026-07-18T18:23:17.690Z",
         "lastCommitAt": "2026-07-17T21:12:30Z",
         "openIssues": 0,
         "latestRelease": {
@@ -174,14 +174,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1783541950,
-        "downloadCount": 339,
+        "downloadCount": 340,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-18T12:24:04.286Z",
+        "fetchedAt": "2026-07-18T18:23:17.690Z",
         "lastCommitAt": "2026-07-17T21:10:21Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-18T12:24:04.286Z",
+        "fetchedAt": "2026-07-18T18:23:17.690Z",
         "lastCommitAt": "2026-06-23T11:38:56Z",
         "openIssues": 26,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 13687,
+          "stable": 13744,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-18T12:24:04.286Z",
+        "fetchedAt": "2026-07-18T18:23:17.690Z",
         "lastCommitAt": "2026-07-17T21:12:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-18T12:24:04.286Z",
+        "fetchedAt": "2026-07-18T18:23:17.690Z",
         "lastCommitAt": "2026-07-18T00:44:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -317,9 +317,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 35,
+    "remaining": 30,
     "limit": 60,
-    "resetAt": "2026-07-18T13:24:04.000Z"
+    "resetAt": "2026-07-18T19:09:06.000Z"
   },
   "errors": []
 }
