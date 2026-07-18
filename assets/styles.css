@@ -76,6 +76,7 @@ body {
 table.plugins { width: 100%; border-collapse: collapse; font-size: 12px; }
 table.plugins th { text-align: left; padding: 10px 14px; font-size: 10px; text-transform: uppercase; letter-spacing: 0.06em; color: var(--dim); font-weight: 500; border-bottom: 1px solid var(--border); background: var(--bg-elev); }
 table.plugins th.right, table.plugins td.right { text-align: right; }
+table.plugins th.center, table.plugins td.center { text-align: center; }
 table.plugins td { padding: 12px 14px; border-bottom: 1px solid var(--border); vertical-align: middle; }
 table.plugins tr:last-child td { border-bottom: none; }
 table.plugins tr:hover td { background: var(--bg-elev); }
