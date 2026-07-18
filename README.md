@@ -38,7 +38,7 @@ npx -y http-server -p 8000
 
 ## What's tracked
 
-- **Downloads** (per plugin + repo total + downloads-over-time)
+- **Downloads** (per plugin + current stable/testing release + repo total + downloads-over-time)
 - **Versions, API level, freshness** (stable vs testing drift, conformance, age)
 - **Issues & releases** (per plugin + the group repo)
 - **Build / CI health** (latest workflow run status)

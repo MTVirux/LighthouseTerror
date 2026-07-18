@@ -49,6 +49,18 @@ function ciCell(p) {
   return el('span', { class: 'pillc muted' }, 'n/a');
 }
 
+function releaseDownloadsCell(p) {
+  const rd = p.github?.ok ? p.github.releaseDownloads : null;
+  if (!rd) return el('span', { class: 'muted' }, '—');
+  const stable = rd.stable == null ? '—' : rd.stable.toLocaleString('en-US');
+  if (rd.testing == null) return el('span', null, stable);
+  return el('span', null,
+    stable,
+    ' ',
+    el('span', { class: 'ver-drift' }, `+${rd.testing.toLocaleString('en-US')}t`),
+  );
+}
+
 function ghVal(p, fn) {
   if (!p.github || !p.github.ok) return '—';
   return fn(p.github);
@@ -90,6 +102,7 @@ export function renderPluginTable(snap) {
       el('td', null, apiCell(p, maxApi)),
       el('td', { class: ageClass(updateDays) }, ageText(updateDays)),
       el('td', { class: 'right num' }, (p.manifest.downloadCount ?? 0).toLocaleString('en-US')),
+      el('td', { class: 'right num' }, releaseDownloadsCell(p)),
       el('td', { class: 'right num' }, String(ghVal(p, (g) => g.openIssues))),
       el('td', { class: `right ${ageClass(commitDays)}` }, commitDays == null ? '—' : `${commitDays}d`),
       el('td', { class: 'right' }, ciCell(p)),
@@ -102,6 +115,7 @@ export function renderPluginTable(snap) {
     el('th', null, 'API'),
     el('th', null, 'Last update'),
     el('th', { class: 'right' }, 'Downloads'),
+    el('th', { class: 'right', title: 'Downloads of the current stable release (+testing) via GitHub release assets' }, 'This ver.'),
     el('th', { class: 'right' }, 'Issues'),
     el('th', { class: 'right' }, 'Last commit'),
     el('th', { class: 'right' }, 'CI'),

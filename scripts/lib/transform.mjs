@@ -42,7 +42,45 @@ function ciFromRuns(runs) {
   };
 }
 
-function buildGithub(payload, fetchedAtIso, now) {
+function tagFromDownloadLink(url) {
+  if (typeof url !== 'string') return null;
+  const m = url.match(/\/releases\/download\/([^/]+)\//);
+  return m ? decodeURIComponent(m[1]) : null;
+}
+
+function sumAssets(release) {
+  return (release.assets ?? []).reduce((acc, a) => acc + (a.download_count ?? 0), 0);
+}
+
+function findByTags(releases, tags) {
+  for (const t of tags) {
+    if (!t) continue;
+    const rel = releases.find((r) => r.tag_name === t);
+    if (rel) return rel;
+  }
+  return null;
+}
+
+// Downloads of the releases currently served by the manifest's install/testing
+// links. Tag is taken from the link URL when present (handles v-prefixed and
+// testing_ tags), falling back to the bare/v-prefixed assembly version.
+function releaseDownloads(entry, releases) {
+  const stableRel = findByTags(releases, [
+    tagFromDownloadLink(entry.DownloadLinkInstall),
+    entry.AssemblyVersion,
+    entry.AssemblyVersion ? `v${entry.AssemblyVersion}` : null,
+  ]);
+  const testingRel = findByTags(releases, [
+    tagFromDownloadLink(entry.DownloadLinkTesting),
+    entry.TestingAssemblyVersion ? `testing_${entry.TestingAssemblyVersion}` : null,
+  ]);
+  return {
+    stable: stableRel ? sumAssets(stableRel) : null,
+    testing: testingRel && testingRel !== stableRel ? sumAssets(testingRel) : null,
+  };
+}
+
+function buildGithub(payload, fetchedAtIso, now, entry) {
   if (payload.error) {
     return { ok: false, reason: payload.error, fetchedAt: fetchedAtIso };
   }
@@ -57,6 +95,7 @@ function buildGithub(payload, fetchedAtIso, now) {
     openIssues: repo?.open_issues_count ?? 0,
     latestRelease,
     releaseCount90d: countReleasesIn90d(releases, now),
+    releaseDownloads: releaseDownloads(entry, releases),
     ci: ciFromRuns(runs),
   };
 }
@@ -81,7 +120,7 @@ function mapManifestEntry(entry, ghByPlugin, fetchedAtIso, now) {
       isTestingExclusive: parseBool(entry.IsTestingExclusive),
       repoUrl,
     },
-    github: ghPayload ? buildGithub(ghPayload, fetchedAtIso, now) : null,
+    github: ghPayload ? buildGithub(ghPayload, fetchedAtIso, now, entry) : null,
   };
 }
 

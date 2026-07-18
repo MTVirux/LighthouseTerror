@@ -156,6 +156,93 @@ test('releaseCount90d is 0 with no releases', () => {
   assert.equal(snap.plugins.find((p) => p.internalName === 'GlamorousTerror').github.releaseCount90d, 0);
 });
 
+function ghGlam(releases) {
+  return {
+    'MTVirux/GlamorousTerror': {
+      repo: { default_branch: 'main', open_issues_count: 0, pushed_at: '2026-05-12T19:22:01Z' },
+      releases,
+      runs: [],
+    },
+  };
+}
+
+test('releaseDownloads.stable sums assets of the release matching the install link tag', () => {
+  const ghByPlugin = ghGlam([
+    { tag_name: 'testing_1.6.1.15', published_at: '2026-05-12T03:11:00Z',
+      assets: [{ name: 'GlamorousTerror.zip', download_count: 37 }] },
+    { tag_name: '1.6.1.10', published_at: '2026-05-10T03:11:00Z',
+      assets: [
+        { name: 'GlamorousTerror.zip', download_count: 400 },
+        { name: 'GlamorousTerror-symbols.zip', download_count: 18 },
+      ] },
+  ]);
+  const snap = buildSnapshot(baseArgs({ ghByPlugin }));
+  const g = snap.plugins.find((p) => p.internalName === 'GlamorousTerror').github;
+  assert.equal(g.releaseDownloads.stable, 418);
+  assert.equal(g.releaseDownloads.testing, 37);
+});
+
+test('releaseDownloads.testing is null when the testing link tag equals the stable tag', () => {
+  const ghByPlugin = {
+    'MTVirux/CrystalTerror': {
+      repo: { default_branch: 'main', open_issues_count: 0, pushed_at: '2026-05-10T00:00:00Z' },
+      releases: [
+        { tag_name: '1.7.0.2', published_at: '2026-05-01T00:00:00Z',
+          assets: [{ name: 'CrystalTerror.zip', download_count: 10 }] },
+      ],
+      runs: [],
+    },
+  };
+  const snap = buildSnapshot(baseArgs({ ghByPlugin }));
+  const g = snap.plugins.find((p) => p.internalName === 'CrystalTerror').github;
+  assert.equal(g.releaseDownloads.stable, 10);
+  assert.equal(g.releaseDownloads.testing, null);
+});
+
+test('releaseDownloads falls back to v-prefixed version tag when no download links exist', () => {
+  const fake = [{
+    Author: 'A', Name: 'X', InternalName: 'X',
+    AssemblyVersion: '2.10.1.3',
+    DalamudApiLevel: 15, DownloadCount: 0, LastUpdate: 0,
+    RepoUrl: 'https://github.com/o/x', IconUrl: '',
+    IsHide: 'False', IsTestingExclusive: 'False',
+  }];
+  const ghByPlugin = {
+    'o/x': {
+      repo: { default_branch: 'main', open_issues_count: 0, pushed_at: '2026-05-10T00:00:00Z' },
+      releases: [
+        { tag_name: 'v2.10.1.3', published_at: '2026-05-01T00:00:00Z',
+          assets: [{ name: 'X.zip', download_count: 55 }] },
+      ],
+      runs: [],
+    },
+  };
+  const snap = buildSnapshot(baseArgs({ repoJson: fake, ghByPlugin }));
+  const g = snap.plugins[0].github;
+  assert.equal(g.releaseDownloads.stable, 55);
+  assert.equal(g.releaseDownloads.testing, null);
+});
+
+test('releaseDownloads.stable is null when no release matches', () => {
+  const ghByPlugin = ghGlam([
+    { tag_name: '0.9.0', published_at: '2026-01-01T00:00:00Z',
+      assets: [{ name: 'old.zip', download_count: 999 }] },
+  ]);
+  const snap = buildSnapshot(baseArgs({ ghByPlugin }));
+  const g = snap.plugins.find((p) => p.internalName === 'GlamorousTerror').github;
+  assert.equal(g.releaseDownloads.stable, null);
+  assert.equal(g.releaseDownloads.testing, null);
+});
+
+test('a matched release without assets counts as 0', () => {
+  const ghByPlugin = ghGlam([
+    { tag_name: '1.6.1.10', published_at: '2026-05-10T03:11:00Z' },
+  ]);
+  const snap = buildSnapshot(baseArgs({ ghByPlugin }));
+  const g = snap.plugins.find((p) => p.internalName === 'GlamorousTerror').github;
+  assert.equal(g.releaseDownloads.stable, 0);
+});
+
 test('top-level errors are passed through', () => {
   const snap = buildSnapshot(baseArgs({ errors: [{ stage: 'fetch-manifest', message: 'HTTP 503' }] }));
   assert.deepEqual(snap.errors, [{ stage: 'fetch-manifest', message: 'HTTP 503' }]);

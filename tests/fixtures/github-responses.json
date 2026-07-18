@@ -6,10 +6,16 @@
       "pushed_at": "2026-05-12T19:22:01Z"
     },
     "releases": [
-      { "tag_name": "1.6.1.10", "published_at": "2026-05-10T03:11:00Z" },
-      { "tag_name": "1.6.1.9",  "published_at": "2026-04-20T03:11:00Z" },
-      { "tag_name": "1.6.1.8",  "published_at": "2026-03-30T03:11:00Z" },
-      { "tag_name": "1.6.1.7",  "published_at": "2026-02-10T03:11:00Z" }
+      { "tag_name": "testing_1.6.1.15", "published_at": "2026-05-12T03:11:00Z",
+        "assets": [{ "name": "GlamorousTerror.zip", "download_count": 37 }] },
+      { "tag_name": "1.6.1.10", "published_at": "2026-05-10T03:11:00Z",
+        "assets": [{ "name": "GlamorousTerror.zip", "download_count": 401 }] },
+      { "tag_name": "1.6.1.9",  "published_at": "2026-04-20T03:11:00Z",
+        "assets": [{ "name": "GlamorousTerror.zip", "download_count": 350 }] },
+      { "tag_name": "1.6.1.8",  "published_at": "2026-03-30T03:11:00Z",
+        "assets": [{ "name": "GlamorousTerror.zip", "download_count": 512 }] },
+      { "tag_name": "1.6.1.7",  "published_at": "2026-02-10T03:11:00Z",
+        "assets": [{ "name": "GlamorousTerror.zip", "download_count": 488 }] }
     ],
     "runs": [
       {
@@ -28,7 +34,10 @@
       "pushed_at": "2026-05-07T10:00:00Z"
     },
     "releases": [
-      { "tag_name": "1.0.1.0", "published_at": "2026-05-07T10:00:00Z" }
+      { "tag_name": "testing_1.0.1.0", "published_at": "2026-05-07T11:00:00Z",
+        "assets": [{ "name": "MarketTerror.zip", "download_count": 9 }] },
+      { "tag_name": "1.0.1.0", "published_at": "2026-05-07T10:00:00Z",
+        "assets": [{ "name": "MarketTerror.zip", "download_count": 84 }] }
     ],
     "runs": [
       {
