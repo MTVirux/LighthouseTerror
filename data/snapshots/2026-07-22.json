@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-22T12:39:18.559Z",
+  "snapshotAt": "2026-07-22T18:31:20.348Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-07-22T12:11:12Z",
+    "lastCommitAt": "2026-07-22T16:55:10Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-07-22T12:11:12Z"
+    "manifestLastModifiedAt": "2026-07-22T16:55:10Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1781758072,
-        "downloadCount": 825,
+        "downloadCount": 826,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-22T12:39:18.559Z",
+        "fetchedAt": "2026-07-22T18:31:20.348Z",
         "lastCommitAt": "2026-07-17T21:13:05Z",
         "openIssues": 0,
         "latestRelease": {
@@ -38,7 +38,7 @@
         },
         "releaseCount90d": 30,
         "releaseDownloads": {
-          "stable": 56,
+          "stable": 57,
           "testing": null
         },
         "ci": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-22T12:39:18.559Z",
+        "fetchedAt": "2026-07-22T18:31:20.348Z",
         "lastCommitAt": "2026-07-22T08:33:28Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-22T12:39:18.559Z",
+        "fetchedAt": "2026-07-22T18:31:20.348Z",
         "lastCommitAt": "2026-07-22T06:40:22Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-22T12:39:18.559Z",
+        "fetchedAt": "2026-07-22T18:31:20.348Z",
         "lastCommitAt": "2026-07-22T07:48:05Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-22T12:39:18.559Z",
+        "fetchedAt": "2026-07-22T18:31:20.348Z",
         "lastCommitAt": "2026-07-22T06:47:38Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-22T12:39:18.559Z",
+        "fetchedAt": "2026-07-22T18:31:20.348Z",
         "lastCommitAt": "2026-06-23T11:38:56Z",
         "openIssues": 26,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 14291,
+          "stable": 14318,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-22T12:39:18.559Z",
+        "fetchedAt": "2026-07-22T18:31:20.348Z",
         "lastCommitAt": "2026-07-17T21:12:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -288,14 +288,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1784708951,
-        "downloadCount": 4,
+        "downloadCount": 7,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/RelicTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-22T12:39:18.559Z",
+        "fetchedAt": "2026-07-22T18:31:20.348Z",
         "lastCommitAt": "2026-07-22T08:29:13Z",
         "openIssues": 0,
         "latestRelease": {
@@ -304,7 +304,7 @@
         },
         "releaseCount90d": 5,
         "releaseDownloads": {
-          "stable": 1,
+          "stable": 4,
           "testing": null
         },
         "ci": {
@@ -317,9 +317,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 7,
+    "remaining": 35,
     "limit": 60,
-    "resetAt": "2026-07-22T12:39:36.000Z"
+    "resetAt": "2026-07-22T19:31:20.000Z"
   },
   "errors": []
 }
