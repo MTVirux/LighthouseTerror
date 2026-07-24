@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-24T06:58:35.564Z",
+  "snapshotAt": "2026-07-24T12:37:31.441Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-07-23T20:30:03Z",
+    "lastCommitAt": "2026-07-24T10:42:10Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-07-23T20:30:03Z"
+    "manifestLastModifiedAt": "2026-07-24T10:42:10Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-24T06:58:35.564Z",
+        "fetchedAt": "2026-07-24T12:37:31.441Z",
         "lastCommitAt": "2026-07-17T21:13:05Z",
         "openIssues": 0,
         "latestRelease": {
@@ -56,28 +56,28 @@
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png",
       "manifest": {
         "stableVersion": "1.0.1.1",
-        "testingVersion": "1.0.1.3",
+        "testingVersion": "1.0.1.5",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1784838590,
-        "downloadCount": 152,
+        "lastUpdate": 1784882506,
+        "downloadCount": 154,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/MarketTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-24T06:58:35.564Z",
-        "lastCommitAt": "2026-07-23T20:29:51Z",
+        "fetchedAt": "2026-07-24T12:37:31.441Z",
+        "lastCommitAt": "2026-07-24T08:41:48Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "testing_1.0.1.3",
-          "publishedAt": "2026-07-23T20:29:48Z"
+          "tag": "testing_1.0.1.5",
+          "publishedAt": "2026-07-24T08:41:45Z"
         },
-        "releaseCount90d": 8,
+        "releaseCount90d": 10,
         "releaseDownloads": {
           "stable": 12,
-          "testing": 0
+          "testing": 1
         },
         "ci": {
           "status": "none",
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-24T06:58:35.564Z",
+        "fetchedAt": "2026-07-24T12:37:31.441Z",
         "lastCommitAt": "2026-07-22T06:40:22Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-24T06:58:35.564Z",
+        "fetchedAt": "2026-07-24T12:37:31.441Z",
         "lastCommitAt": "2026-07-22T07:48:05Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-24T06:58:35.564Z",
+        "fetchedAt": "2026-07-24T12:37:31.441Z",
         "lastCommitAt": "2026-07-22T06:47:38Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-24T06:58:35.564Z",
+        "fetchedAt": "2026-07-24T12:37:31.441Z",
         "lastCommitAt": "2026-06-23T11:38:56Z",
         "openIssues": 26,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 14483,
+          "stable": 14505,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-24T06:58:35.564Z",
+        "fetchedAt": "2026-07-24T12:37:31.441Z",
         "lastCommitAt": "2026-07-17T21:12:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-24T06:58:35.564Z",
+        "fetchedAt": "2026-07-24T12:37:31.441Z",
         "lastCommitAt": "2026-07-22T08:29:13Z",
         "openIssues": 0,
         "latestRelease": {
@@ -317,9 +317,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 19,
+    "remaining": 35,
     "limit": 60,
-    "resetAt": "2026-07-24T07:24:49.000Z"
+    "resetAt": "2026-07-24T13:37:31.000Z"
   },
   "errors": []
 }
