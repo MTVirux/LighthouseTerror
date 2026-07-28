@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-28T12:44:21.414Z",
+  "snapshotAt": "2026-07-28T18:34:49.663Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-07-28T12:17:00Z",
+    "lastCommitAt": "2026-07-28T14:38:10Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-07-28T12:17:00Z"
+    "manifestLastModifiedAt": "2026-07-28T14:38:10Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-28T12:44:21.414Z",
+        "fetchedAt": "2026-07-28T18:34:49.663Z",
         "lastCommitAt": "2026-07-17T21:13:05Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-28T12:44:21.414Z",
+        "fetchedAt": "2026-07-28T18:34:49.663Z",
         "lastCommitAt": "2026-07-27T06:15:49Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-28T12:44:21.414Z",
+        "fetchedAt": "2026-07-28T18:34:49.663Z",
         "lastCommitAt": "2026-07-27T06:18:44Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-28T12:44:21.414Z",
+        "fetchedAt": "2026-07-28T18:34:49.663Z",
         "lastCommitAt": "2026-07-27T06:26:04Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-28T12:44:21.414Z",
+        "fetchedAt": "2026-07-28T18:34:49.663Z",
         "lastCommitAt": "2026-07-22T06:47:38Z",
         "openIssues": 0,
         "latestRelease": {
@@ -207,8 +207,8 @@
       "author": "Usagi",
       "iconUrl": "https://raw.githubusercontent.com/marzent/IINACT/master/images/icon.png",
       "manifest": {
-        "stableVersion": "2.10.3.3",
-        "testingVersion": "2.10.3.3",
+        "stableVersion": "2.10.3.4",
+        "testingVersion": "2.10.3.4",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": null,
         "lastUpdate": null,
@@ -219,23 +219,23 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-28T12:44:21.414Z",
-        "lastCommitAt": "2026-07-28T11:37:55Z",
+        "fetchedAt": "2026-07-28T18:34:49.663Z",
+        "lastCommitAt": "2026-07-28T14:24:46Z",
         "openIssues": 26,
         "latestRelease": {
-          "tag": "v2.10.3.3",
-          "publishedAt": "2026-07-28T11:37:53Z"
+          "tag": "v2.10.3.4",
+          "publishedAt": "2026-07-28T14:24:44Z"
         },
-        "releaseCount90d": 8,
+        "releaseCount90d": 9,
         "releaseDownloads": {
           "stable": 0,
           "testing": null
         },
         "ci": {
-          "status": "success",
+          "status": "none",
           "workflow": "IINACT build",
-          "runUrl": "https://github.com/marzent/IINACT/actions/runs/30355512864",
-          "ranAt": "2026-07-28T11:37:59Z"
+          "runUrl": "https://github.com/marzent/IINACT/actions/runs/30381013394",
+          "ranAt": "2026-07-28T17:01:49Z"
         }
       }
     },
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-28T12:44:21.414Z",
+        "fetchedAt": "2026-07-28T18:34:49.663Z",
         "lastCommitAt": "2026-07-17T21:12:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-28T12:44:21.414Z",
+        "fetchedAt": "2026-07-28T18:34:49.663Z",
         "lastCommitAt": "2026-07-27T06:12:20Z",
         "openIssues": 0,
         "latestRelease": {
@@ -319,7 +319,7 @@
   "rateLimit": {
     "remaining": 35,
     "limit": 60,
-    "resetAt": "2026-07-28T13:44:21.000Z"
+    "resetAt": "2026-07-28T19:34:49.000Z"
   },
   "errors": []
 }
