@@ -64,16 +64,23 @@ function findByTags(releases, tags) {
 // Downloads of the releases currently served by the manifest's install/testing
 // links. Tag is taken from the link URL when present (handles v-prefixed and
 // testing_ tags), falling back to the bare/v-prefixed assembly version.
+// A testing count is only reported when the manifest advertises a testing
+// version distinct from stable - Dalamud offers no testing build otherwise, so
+// a leftover testing_ release tag must not surface as a testing download count.
 function releaseDownloads(entry, releases) {
   const stableRel = findByTags(releases, [
     tagFromDownloadLink(entry.DownloadLinkInstall),
     entry.AssemblyVersion,
     entry.AssemblyVersion ? `v${entry.AssemblyVersion}` : null,
   ]);
-  const testingRel = findByTags(releases, [
-    tagFromDownloadLink(entry.DownloadLinkTesting),
-    entry.TestingAssemblyVersion ? `testing_${entry.TestingAssemblyVersion}` : null,
-  ]);
+  const hasTestingBuild = Boolean(entry.TestingAssemblyVersion)
+    && entry.TestingAssemblyVersion !== entry.AssemblyVersion;
+  const testingRel = hasTestingBuild
+    ? findByTags(releases, [
+      tagFromDownloadLink(entry.DownloadLinkTesting),
+      `testing_${entry.TestingAssemblyVersion}`,
+    ])
+    : null;
   return {
     stable: stableRel ? sumAssets(stableRel) : null,
     testing: testingRel && testingRel !== stableRel ? sumAssets(testingRel) : null,

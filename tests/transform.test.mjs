@@ -199,6 +199,59 @@ test('releaseDownloads.testing is null when the testing link tag equals the stab
   assert.equal(g.releaseDownloads.testing, null);
 });
 
+test('releaseDownloads.testing is null when the manifest advertises no distinct testing version', () => {
+  const fake = [{
+    Author: 'A', Name: 'Market Terror', InternalName: 'MarketTerror',
+    AssemblyVersion: '1.0.1.7', TestingAssemblyVersion: '1.0.1.7',
+    DownloadLinkInstall: 'https://github.com/o/x/releases/download/1.0.1.5/X.zip',
+    DownloadLinkTesting: 'https://github.com/o/x/releases/download/testing_1.0.1.7/X.zip',
+    DalamudApiLevel: 15, TestingDalamudApiLevel: 15, DownloadCount: 0, LastUpdate: 0,
+    RepoUrl: 'https://github.com/o/x', IconUrl: '',
+    IsHide: 'False', IsTestingExclusive: 'False',
+  }];
+  const ghByPlugin = {
+    'o/x': {
+      repo: { default_branch: 'main', open_issues_count: 0, pushed_at: '2026-05-10T00:00:00Z' },
+      releases: [
+        { tag_name: 'testing_1.0.1.7', published_at: '2026-05-09T00:00:00Z',
+          assets: [{ name: 'X.zip', download_count: 0 }] },
+        { tag_name: '1.0.1.5', published_at: '2026-05-01T00:00:00Z',
+          assets: [{ name: 'X.zip', download_count: 8 }] },
+      ],
+      runs: [],
+    },
+  };
+  const snap = buildSnapshot(baseArgs({ repoJson: fake, ghByPlugin }));
+  const g = snap.plugins[0].github;
+  assert.equal(g.releaseDownloads.stable, 8);
+  assert.equal(g.releaseDownloads.testing, null);
+});
+
+test('releaseDownloads.testing is resolved for a testing-exclusive plugin with no stable version', () => {
+  const fake = [{
+    Author: 'A', Name: 'X', InternalName: 'X',
+    TestingAssemblyVersion: '0.1.0.0',
+    DownloadLinkTesting: 'https://github.com/o/x/releases/download/testing_0.1.0.0/X.zip',
+    DalamudApiLevel: 15, DownloadCount: 0, LastUpdate: 0,
+    RepoUrl: 'https://github.com/o/x', IconUrl: '',
+    IsHide: 'False', IsTestingExclusive: 'True',
+  }];
+  const ghByPlugin = {
+    'o/x': {
+      repo: { default_branch: 'main', open_issues_count: 0, pushed_at: '2026-05-10T00:00:00Z' },
+      releases: [
+        { tag_name: 'testing_0.1.0.0', published_at: '2026-05-09T00:00:00Z',
+          assets: [{ name: 'X.zip', download_count: 4 }] },
+      ],
+      runs: [],
+    },
+  };
+  const snap = buildSnapshot(baseArgs({ repoJson: fake, ghByPlugin }));
+  const g = snap.plugins[0].github;
+  assert.equal(g.releaseDownloads.stable, null);
+  assert.equal(g.releaseDownloads.testing, 4);
+});
+
 test('releaseDownloads falls back to v-prefixed version tag when no download links exist', () => {
   const fake = [{
     Author: 'A', Name: 'X', InternalName: 'X',
