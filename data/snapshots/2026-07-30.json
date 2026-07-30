@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-07-30T12:40:46.234Z",
+  "snapshotAt": "2026-07-30T18:35:31.769Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-07-30T11:38:53Z",
+    "lastCommitAt": "2026-07-30T18:28:51Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-07-30T11:38:53Z"
+    "manifestLastModifiedAt": "2026-07-30T18:28:51Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785367661,
-        "downloadCount": 845,
+        "downloadCount": 852,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-30T12:40:46.234Z",
+        "fetchedAt": "2026-07-30T18:35:31.769Z",
         "lastCommitAt": "2026-07-29T23:27:42Z",
         "openIssues": 0,
         "latestRelease": {
@@ -38,7 +38,7 @@
         },
         "releaseCount90d": 28,
         "releaseDownloads": {
-          "stable": 17,
+          "stable": 23,
           "testing": null
         },
         "ci": {
@@ -60,23 +60,23 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785369762,
-        "downloadCount": 176,
+        "downloadCount": 179,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/MarketTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-30T12:40:46.234Z",
+        "fetchedAt": "2026-07-30T18:35:31.769Z",
         "lastCommitAt": "2026-07-30T00:02:43Z",
         "openIssues": 0,
         "latestRelease": {
           "tag": "1.0.1.7",
           "publishedAt": "2026-07-30T00:02:41Z"
         },
-        "releaseCount90d": 11,
+        "releaseCount90d": 10,
         "releaseDownloads": {
-          "stable": 8,
+          "stable": 10,
           "testing": null
         },
         "ci": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-30T12:40:46.234Z",
+        "fetchedAt": "2026-07-30T18:35:31.769Z",
         "lastCommitAt": "2026-07-29T22:41:03Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-30T12:40:46.234Z",
+        "fetchedAt": "2026-07-30T18:35:31.769Z",
         "lastCommitAt": "2026-07-29T22:49:03Z",
         "openIssues": 0,
         "latestRelease": {
@@ -174,14 +174,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785363683,
-        "downloadCount": 358,
+        "downloadCount": 360,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-30T12:40:46.234Z",
+        "fetchedAt": "2026-07-30T18:35:31.769Z",
         "lastCommitAt": "2026-07-29T22:21:25Z",
         "openIssues": 0,
         "latestRelease": {
@@ -190,7 +190,7 @@
         },
         "releaseCount90d": 24,
         "releaseDownloads": {
-          "stable": 10,
+          "stable": 12,
           "testing": null
         },
         "ci": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-30T12:40:46.234Z",
+        "fetchedAt": "2026-07-30T18:35:31.769Z",
         "lastCommitAt": "2026-07-28T14:24:46Z",
         "openIssues": 26,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 6342,
+          "stable": 6686,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-30T12:40:46.234Z",
+        "fetchedAt": "2026-07-30T18:35:31.769Z",
         "lastCommitAt": "2026-07-29T23:04:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -288,14 +288,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785367668,
-        "downloadCount": 23,
+        "downloadCount": 24,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/RelicTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-07-30T12:40:46.234Z",
+        "fetchedAt": "2026-07-30T18:35:31.769Z",
         "lastCommitAt": "2026-07-29T23:27:49Z",
         "openIssues": 0,
         "latestRelease": {
@@ -304,7 +304,7 @@
         },
         "releaseCount90d": 9,
         "releaseDownloads": {
-          "stable": 6,
+          "stable": 7,
           "testing": null
         },
         "ci": {
@@ -317,9 +317,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 30,
+    "remaining": 34,
     "limit": 60,
-    "resetAt": "2026-07-30T13:34:30.000Z"
+    "resetAt": "2026-07-30T19:33:17.000Z"
   },
   "errors": []
 }
