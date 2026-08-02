@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-02T12:28:46.791Z",
+  "snapshotAt": "2026-08-02T18:25:21.284Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-02T09:45:04Z",
+    "lastCommitAt": "2026-08-02T17:58:25Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-02T09:45:04Z"
+    "manifestLastModifiedAt": "2026-08-02T17:58:25Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785367661,
-        "downloadCount": 860,
+        "downloadCount": 861,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-02T12:28:46.791Z",
+        "fetchedAt": "2026-08-02T18:25:21.284Z",
         "lastCommitAt": "2026-07-29T23:27:42Z",
         "openIssues": 0,
         "latestRelease": {
@@ -38,7 +38,7 @@
         },
         "releaseCount90d": 23,
         "releaseDownloads": {
-          "stable": 31,
+          "stable": 32,
           "testing": null
         },
         "ci": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-02T12:28:46.791Z",
+        "fetchedAt": "2026-08-02T18:25:21.284Z",
         "lastCommitAt": "2026-07-30T00:02:43Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-02T12:28:46.791Z",
+        "fetchedAt": "2026-08-02T18:25:21.284Z",
         "lastCommitAt": "2026-07-29T22:41:03Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-02T12:28:46.791Z",
+        "fetchedAt": "2026-08-02T18:25:21.284Z",
         "lastCommitAt": "2026-07-29T22:49:03Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,14 +181,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-02T12:28:46.791Z",
+        "fetchedAt": "2026-08-02T18:25:21.284Z",
         "lastCommitAt": "2026-07-31T21:07:07Z",
         "openIssues": 0,
         "latestRelease": {
           "tag": "testing_1.2.1.19",
           "publishedAt": "2026-07-31T17:35:15Z"
         },
-        "releaseCount90d": 21,
+        "releaseCount90d": 20,
         "releaseDownloads": {
           "stable": 16,
           "testing": 3
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-02T12:28:46.791Z",
+        "fetchedAt": "2026-08-02T18:25:21.284Z",
         "lastCommitAt": "2026-07-28T14:24:46Z",
         "openIssues": 26,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 8567,
+          "stable": 8735,
           "testing": null
         },
         "ci": {
@@ -250,14 +250,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785366294,
-        "downloadCount": 38,
+        "downloadCount": 39,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TempoTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-02T12:28:46.791Z",
+        "fetchedAt": "2026-08-02T18:25:21.284Z",
         "lastCommitAt": "2026-07-29T23:04:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -266,7 +266,7 @@
         },
         "releaseCount90d": 6,
         "releaseDownloads": {
-          "stable": 1,
+          "stable": 2,
           "testing": null
         },
         "ci": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-02T12:28:46.791Z",
+        "fetchedAt": "2026-08-02T18:25:21.284Z",
         "lastCommitAt": "2026-07-29T23:27:49Z",
         "openIssues": 0,
         "latestRelease": {
@@ -317,9 +317,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 34,
+    "remaining": 29,
     "limit": 60,
-    "resetAt": "2026-08-02T13:24:23.000Z"
+    "resetAt": "2026-08-02T18:35:16.000Z"
   },
   "errors": []
 }
