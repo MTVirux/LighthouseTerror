@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-06T07:01:32.647Z",
+  "snapshotAt": "2026-08-06T12:43:45.247Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-05T22:10:20Z",
+    "lastCommitAt": "2026-08-06T08:37:14Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-05T22:10:20Z"
+    "manifestLastModifiedAt": "2026-08-06T08:37:14Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-06T07:01:32.647Z",
+        "fetchedAt": "2026-08-06T12:43:45.247Z",
         "lastCommitAt": "2026-07-29T23:27:42Z",
         "openIssues": 0,
         "latestRelease": {
@@ -60,14 +60,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785369762,
-        "downloadCount": 183,
+        "downloadCount": 184,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/MarketTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-06T07:01:32.647Z",
+        "fetchedAt": "2026-08-06T12:43:45.247Z",
         "lastCommitAt": "2026-07-30T00:02:43Z",
         "openIssues": 0,
         "latestRelease": {
@@ -76,7 +76,7 @@
         },
         "releaseCount90d": 10,
         "releaseDownloads": {
-          "stable": 14,
+          "stable": 15,
           "testing": null
         },
         "ci": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-06T07:01:32.647Z",
+        "fetchedAt": "2026-08-06T12:43:45.247Z",
         "lastCommitAt": "2026-07-29T22:41:03Z",
         "openIssues": 0,
         "latestRelease": {
@@ -136,14 +136,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785365341,
-        "downloadCount": 67,
+        "downloadCount": 68,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-06T07:01:32.647Z",
+        "fetchedAt": "2026-08-06T12:43:45.247Z",
         "lastCommitAt": "2026-07-29T22:49:03Z",
         "openIssues": 0,
         "latestRelease": {
@@ -152,7 +152,7 @@
         },
         "releaseCount90d": 15,
         "releaseDownloads": {
-          "stable": 1,
+          "stable": 2,
           "testing": null
         },
         "ci": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-06T07:01:32.647Z",
+        "fetchedAt": "2026-08-06T12:43:45.247Z",
         "lastCommitAt": "2026-07-31T21:07:07Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-06T07:01:32.647Z",
+        "fetchedAt": "2026-08-06T12:43:45.247Z",
         "lastCommitAt": "2026-07-28T14:24:46Z",
         "openIssues": 26,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 7,
         "releaseDownloads": {
-          "stable": 9925,
+          "stable": 9974,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-06T07:01:32.647Z",
+        "fetchedAt": "2026-08-06T12:43:45.247Z",
         "lastCommitAt": "2026-07-29T23:04:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-06T07:01:32.647Z",
+        "fetchedAt": "2026-08-06T12:43:45.247Z",
         "lastCommitAt": "2026-07-29T23:27:49Z",
         "openIssues": 0,
         "latestRelease": {
@@ -317,9 +317,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 19,
+    "remaining": 35,
     "limit": 60,
-    "resetAt": "2026-08-06T07:23:05.000Z"
+    "resetAt": "2026-08-06T13:43:45.000Z"
   },
   "errors": []
 }
