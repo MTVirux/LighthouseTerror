@@ -6,7 +6,7 @@ A static dashboard for tracking a Dalamud custom plugin repository — downloads
 
 ## How it works
 
-A GitHub Actions cron runs every 6 hours, fetches the configured `repo.json`, walks each plugin's source repository via the GitHub API, and writes a snapshot to a `repo/<tracked-name>` orphan branch. The static dashboard (this repo's `main` branch, served by GitHub Pages) reads those snapshots at runtime via `raw.githubusercontent.com`.
+A GitHub Actions cron runs hourly, fetches the configured `repo.json`, walks each plugin's source repository via the GitHub API, and writes a snapshot to a `repo/<tracked-name>` orphan branch. The static dashboard (this repo's `main` branch, served by GitHub Pages) reads those snapshots at runtime via `raw.githubusercontent.com`.
 
 ## Fork it for your own plugin repo
 

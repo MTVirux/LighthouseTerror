@@ -21,7 +21,7 @@ export function renderBanner(snap) {
 export function renderEmptyState(repoJsonUrl, actionsUrl) {
   return el('div', { class: 'empty' },
     el('h3', null, 'No snapshots yet'),
-    el('p', null, 'The first cron run is pending. The dashboard refreshes every 6 hours, or trigger it manually:'),
+    el('p', null, 'The first cron run is pending. The dashboard refreshes hourly, or trigger it manually:'),
     el('p', null,
       el('a', { href: actionsUrl, target: '_blank', rel: 'noopener' },
         'Open the snapshot workflow on GitHub →'),

@@ -73,7 +73,7 @@ function renderFooter(snap) {
       'snapshot ',
       el('span', { class: 'mono' }, snap.snapshotAt),
       ' · refreshes every ',
-      el('span', { class: 'mono' }, '6h'),
+      el('span', { class: 'mono' }, '1h'),
     ),
     el('div', null,
       'source ',
