@@ -45,6 +45,11 @@ async function buildFixtureClient() {
   };
 }
 
+// Actions sets an undefined secret to an empty string, so blanks must fall through.
+function readToken() {
+  return [env.GH_PAT, env.GITHUB_TOKEN].map((t) => t?.trim()).find(Boolean) ?? null;
+}
+
 function validateSchema(snap) {
   if (snap.schema !== 1) throw new Error(`unexpected schema ${snap.schema}`);
   if (typeof snap.snapshotAt !== 'string') throw new Error('snapshotAt must be string');
@@ -58,7 +63,7 @@ async function main() {
   const manifestFetcher = useFixtures ? fixtureManifestFetcher : realManifestFetcher;
   const githubClient = useFixtures
     ? await buildFixtureClient()
-    : new GithubClient({ token: env.GH_PAT ?? env.GITHUB_TOKEN ?? null });
+    : new GithubClient({ token: readToken() });
 
   const snap = await runSnapshot({
     repoJsonUrl: REPO_JSON_URL,
