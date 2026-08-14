@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-14T19:22:06.562Z",
+  "snapshotAt": "2026-08-14T20:12:14.796Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-14T18:46:40Z",
+    "lastCommitAt": "2026-08-14T20:02:00Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-14T18:46:40Z"
+    "manifestLastModifiedAt": "2026-08-14T20:02:00Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-13T23:11:57Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-13T23:12:02Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -174,14 +174,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1786553860,
-        "downloadCount": 384,
+        "downloadCount": 385,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-13T23:11:52Z",
         "openIssues": 0,
         "latestRelease": {
@@ -190,7 +190,7 @@
         },
         "releaseCount90d": 19,
         "releaseDownloads": {
-          "stable": 26,
+          "stable": 27,
           "testing": 3
         },
         "ci": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 28,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 9,
         "releaseDownloads": {
-          "stable": 406,
+          "stable": 827,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-13T23:12:04Z",
         "openIssues": 0,
         "latestRelease": {
@@ -326,14 +326,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1786732764,
-        "downloadCount": 0,
+        "downloadCount": 1,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TerrorTweaks"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-14T19:22:06.562Z",
+        "fetchedAt": "2026-08-14T20:12:14.796Z",
         "lastCommitAt": "2026-08-14T18:39:25Z",
         "openIssues": 0,
         "latestRelease": {
@@ -343,7 +343,7 @@
         "releaseCount90d": 1,
         "releaseDownloads": {
           "stable": null,
-          "testing": 0
+          "testing": 1
         },
         "ci": {
           "status": "none",
@@ -355,7 +355,7 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4972,
+    "remaining": 4944,
     "limit": 5000,
     "resetAt": "2026-08-14T20:22:06.000Z"
   },
