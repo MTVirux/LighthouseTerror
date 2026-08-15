@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-15T13:13:42.793Z",
+  "snapshotAt": "2026-08-15T14:06:34.003Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-15T12:57:18Z",
+    "lastCommitAt": "2026-08-15T13:48:18Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-15T12:57:18Z"
+    "manifestLastModifiedAt": "2026-08-15T13:48:18Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
         "lastCommitAt": "2026-08-13T23:11:57Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
         "lastCommitAt": "2026-08-13T23:12:02Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
         "lastCommitAt": "2026-08-15T00:41:16Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 27,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 9,
         "releaseDownloads": {
-          "stable": 4981,
+          "stable": 5134,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -288,14 +288,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1786764407,
-        "downloadCount": 33,
+        "downloadCount": 37,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/RelicTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -304,7 +304,7 @@
         },
         "releaseCount90d": 11,
         "releaseDownloads": {
-          "stable": 3,
+          "stable": 7,
           "testing": null
         },
         "ci": {
@@ -322,10 +322,10 @@
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/TerrorTweaks/main/images/icon.png",
       "manifest": {
         "stableVersion": "1.0.0.3",
-        "testingVersion": "1.0.0.3",
+        "testingVersion": "1.0.0.4",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1786797815,
+        "lastUpdate": 1786801627,
         "downloadCount": 2,
         "isHide": false,
         "isTestingExclusive": false,
@@ -333,17 +333,17 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T13:13:42.793Z",
-        "lastCommitAt": "2026-08-15T12:43:36Z",
+        "fetchedAt": "2026-08-15T14:06:34.003Z",
+        "lastCommitAt": "2026-08-15T13:47:09Z",
         "openIssues": 0,
         "latestRelease": {
           "tag": "1.0.0.3",
           "publishedAt": "2026-08-15T12:43:34Z"
         },
-        "releaseCount90d": 4,
+        "releaseCount90d": 5,
         "releaseDownloads": {
           "stable": 0,
-          "testing": null
+          "testing": 0
         },
         "ci": {
           "status": "none",
@@ -355,7 +355,7 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4972,
+    "remaining": 4944,
     "limit": 5000,
     "resetAt": "2026-08-15T14:13:43.000Z"
   },
