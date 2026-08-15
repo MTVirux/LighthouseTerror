@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-15T15:06:00.138Z",
+  "snapshotAt": "2026-08-15T16:05:59.185Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-15T14:42:21Z",
+    "lastCommitAt": "2026-08-15T15:57:07Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-15T14:42:21Z"
+    "manifestLastModifiedAt": "2026-08-15T15:57:07Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-13T23:11:57Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-13T23:12:02Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-15T00:41:16Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 27,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 9,
         "releaseDownloads": {
-          "stable": 5304,
+          "stable": 5480,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -288,14 +288,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1786764407,
-        "downloadCount": 37,
+        "downloadCount": 38,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/RelicTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -304,7 +304,7 @@
         },
         "releaseCount90d": 11,
         "releaseDownloads": {
-          "stable": 7,
+          "stable": 8,
           "testing": null
         },
         "ci": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-15T15:06:00.138Z",
+        "fetchedAt": "2026-08-15T16:05:59.185Z",
         "lastCommitAt": "2026-08-15T14:41:45Z",
         "openIssues": 0,
         "latestRelease": {
@@ -355,7 +355,7 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4972,
+    "remaining": 4944,
     "limit": 5000,
     "resetAt": "2026-08-15T16:06:00.000Z"
   },
