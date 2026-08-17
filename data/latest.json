@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-17T21:08:42.063Z",
+  "snapshotAt": "2026-08-17T22:07:12.184Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-17T19:15:08Z",
+    "lastCommitAt": "2026-08-17T21:43:41Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-17T19:15:08Z"
+    "manifestLastModifiedAt": "2026-08-17T21:43:41Z"
   },
   "plugins": [
     {
@@ -29,8 +29,8 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
-        "lastCommitAt": "2026-08-13T23:11:57Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
+        "lastCommitAt": "2026-08-17T22:06:07Z",
         "openIssues": 0,
         "latestRelease": {
           "tag": "1.7.0.2",
@@ -56,10 +56,10 @@
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png",
       "manifest": {
         "stableVersion": "1.0.1.7",
-        "testingVersion": "1.69.420.1342",
+        "testingVersion": "1.69.420.1343",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1786994054,
+        "lastUpdate": 1787002930,
         "downloadCount": 192,
         "isHide": false,
         "isTestingExclusive": false,
@@ -67,14 +67,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
-        "lastCommitAt": "2026-08-17T19:14:16Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
+        "lastCommitAt": "2026-08-17T21:42:11Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "testing_1.69.420.1342",
-          "publishedAt": "2026-08-17T19:14:12Z"
+          "tag": "testing_1.69.420.1343",
+          "publishedAt": "2026-08-17T21:42:08Z"
         },
-        "releaseCount90d": 18,
+        "releaseCount90d": 19,
         "releaseDownloads": {
           "stable": 17,
           "testing": 0
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -136,14 +136,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785365341,
-        "downloadCount": 70,
+        "downloadCount": 71,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
         "lastCommitAt": "2026-08-15T20:15:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 27,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 9015,
+          "stable": 9050,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -326,14 +326,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1786836936,
-        "downloadCount": 6,
+        "downloadCount": 7,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TerrorTweaks"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T21:08:42.063Z",
+        "fetchedAt": "2026-08-17T22:07:12.184Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -342,7 +342,7 @@
         },
         "releaseCount90d": 9,
         "releaseDownloads": {
-          "stable": 3,
+          "stable": 4,
           "testing": null
         },
         "ci": {
@@ -355,7 +355,7 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4972,
+    "remaining": 4956,
     "limit": 5000,
     "resetAt": "2026-08-17T22:08:42.000Z"
   },
