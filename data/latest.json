@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-17T08:16:53.350Z",
+  "snapshotAt": "2026-08-17T09:18:15.640Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-17T07:38:05Z",
+    "lastCommitAt": "2026-08-17T09:03:47Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-17T07:38:05Z"
+    "manifestLastModifiedAt": "2026-08-17T09:03:47Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
         "lastCommitAt": "2026-08-13T23:11:57Z",
         "openIssues": 0,
         "latestRelease": {
@@ -56,10 +56,10 @@
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png",
       "manifest": {
         "stableVersion": "1.0.1.7",
-        "testingVersion": "1.69.420.1339",
+        "testingVersion": "1.69.420.1340",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1786951581,
+        "lastUpdate": 1786956709,
         "downloadCount": 192,
         "isHide": false,
         "isTestingExclusive": false,
@@ -67,14 +67,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
-        "lastCommitAt": "2026-08-17T07:26:22Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
+        "lastCommitAt": "2026-08-17T08:51:51Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "testing_1.69.420.1339",
-          "publishedAt": "2026-08-17T07:26:20Z"
+          "tag": "testing_1.69.420.1340",
+          "publishedAt": "2026-08-17T08:51:48Z"
         },
-        "releaseCount90d": 15,
+        "releaseCount90d": 16,
         "releaseDownloads": {
           "stable": 17,
           "testing": 0
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
         "lastCommitAt": "2026-08-15T20:15:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 27,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 9,
         "releaseDownloads": {
-          "stable": 8507,
+          "stable": 8522,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-17T08:16:53.350Z",
+        "fetchedAt": "2026-08-17T09:18:15.640Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -355,9 +355,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4944,
+    "remaining": 4984,
     "limit": 5000,
-    "resetAt": "2026-08-17T08:24:29.000Z"
+    "resetAt": "2026-08-17T10:18:16.000Z"
   },
   "errors": []
 }
