@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-19T21:08:53.927Z",
+  "snapshotAt": "2026-08-19T22:07:44.910Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-19T20:37:55Z",
+    "lastCommitAt": "2026-08-19T21:56:01Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-19T20:37:55Z"
+    "manifestLastModifiedAt": "2026-08-19T21:56:01Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
         "lastCommitAt": "2026-08-19T12:05:54Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -170,27 +170,27 @@
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
       "manifest": {
         "stableVersion": "1.2.1.18",
-        "testingVersion": "1.2.1.24",
+        "testingVersion": "1.2.1.25",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1787171782,
-        "downloadCount": 397,
+        "lastUpdate": 1787174920,
+        "downloadCount": 402,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
-        "lastCommitAt": "2026-08-19T21:03:28Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
+        "lastCommitAt": "2026-08-19T21:28:41Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "testing_1.2.1.24",
-          "publishedAt": "2026-08-19T20:36:20Z"
+          "tag": "testing_1.2.1.25",
+          "publishedAt": "2026-08-19T21:28:38Z"
         },
-        "releaseCount90d": 22,
+        "releaseCount90d": 23,
         "releaseDownloads": {
-          "stable": 30,
+          "stable": 32,
           "testing": 1
         },
         "ci": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 27,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 10535,
+          "stable": 10556,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T21:08:53.927Z",
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -352,10 +352,45 @@
           "ranAt": null
         }
       }
+    },
+    {
+      "internalName": "PolyglotTerror",
+      "name": "PolyglotTerror",
+      "author": "MTVirux",
+      "iconUrl": "https://raw.githubusercontent.com/MTVirux/PolyglotTerror/main/images/icon.png",
+      "manifest": {
+        "stableVersion": "1.0.0.0",
+        "testingVersion": "1.0.0.0",
+        "dalamudApiLevel": 15,
+        "testingDalamudApiLevel": 15,
+        "lastUpdate": 0,
+        "downloadCount": 0,
+        "isHide": false,
+        "isTestingExclusive": false,
+        "repoUrl": "https://github.com/MTVirux/PolyglotTerror"
+      },
+      "github": {
+        "ok": true,
+        "fetchedAt": "2026-08-19T22:07:44.910Z",
+        "lastCommitAt": "2026-08-19T21:42:49Z",
+        "openIssues": 0,
+        "latestRelease": null,
+        "releaseCount90d": 0,
+        "releaseDownloads": {
+          "stable": null,
+          "testing": null
+        },
+        "ci": {
+          "status": "none",
+          "workflow": null,
+          "runUrl": null,
+          "ranAt": null
+        }
+      }
     }
   ],
   "rateLimit": {
-    "remaining": 4972,
+    "remaining": 4941,
     "limit": 5000,
     "resetAt": "2026-08-19T22:08:54.000Z"
   },
