@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-19T17:09:14.408Z",
+  "snapshotAt": "2026-08-19T18:09:15.491Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-19T16:19:27Z",
+    "lastCommitAt": "2026-08-19T17:18:24Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-19T16:19:27Z"
+    "manifestLastModifiedAt": "2026-08-19T17:18:24Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
         "lastCommitAt": "2026-08-19T12:05:54Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -170,10 +170,10 @@
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
       "manifest": {
         "stableVersion": "1.2.1.18",
-        "testingVersion": "1.2.1.22",
+        "testingVersion": "1.2.1.23",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1787155724,
+        "lastUpdate": 1787159654,
         "downloadCount": 394,
         "isHide": false,
         "isTestingExclusive": false,
@@ -181,14 +181,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
-        "lastCommitAt": "2026-08-19T16:17:45Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
+        "lastCommitAt": "2026-08-19T17:14:16Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "testing_1.2.1.22",
-          "publishedAt": "2026-08-19T16:08:43Z"
+          "tag": "testing_1.2.1.23",
+          "publishedAt": "2026-08-19T17:14:13Z"
         },
-        "releaseCount90d": 20,
+        "releaseCount90d": 21,
         "releaseDownloads": {
           "stable": 30,
           "testing": 0
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 27,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 10426,
+          "stable": 10470,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-19T17:09:14.408Z",
+        "fetchedAt": "2026-08-19T18:09:15.491Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -357,7 +357,7 @@
   "rateLimit": {
     "remaining": 4972,
     "limit": 5000,
-    "resetAt": "2026-08-19T18:09:15.000Z"
+    "resetAt": "2026-08-19T19:09:16.000Z"
   },
   "errors": []
 }
