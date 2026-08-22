@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-22T19:08:34.117Z",
+  "snapshotAt": "2026-08-22T20:05:40.756Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-22T16:55:47Z",
+    "lastCommitAt": "2026-08-22T20:05:09Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-22T16:55:47Z"
+    "manifestLastModifiedAt": "2026-08-22T20:05:09Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1787036979,
-        "downloadCount": 888,
+        "downloadCount": 889,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -38,7 +38,7 @@
         },
         "releaseCount90d": 15,
         "releaseDownloads": {
-          "stable": 54,
+          "stable": 55,
           "testing": 4
         },
         "ci": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-19T12:05:54Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-22T18:56:00Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 27,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 11798,
+          "stable": 11835,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-22T19:08:34.117Z",
+        "fetchedAt": "2026-08-22T20:05:40.756Z",
         "lastCommitAt": "2026-08-22T14:27:49Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,7 +393,7 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4969,
+    "remaining": 4954,
     "limit": 5000,
     "resetAt": "2026-08-22T20:08:34.000Z"
   },
