@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-23T16:06:48.108Z",
+  "snapshotAt": "2026-08-23T17:07:13.994Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-23T15:59:16Z",
+    "lastCommitAt": "2026-08-23T16:57:17Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-23T15:59:16Z"
+    "manifestLastModifiedAt": "2026-08-23T16:57:17Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-23T15:04:34Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -174,14 +174,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1787500585,
-        "downloadCount": 433,
+        "downloadCount": 435,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-23T15:56:27Z",
         "openIssues": 0,
         "latestRelease": {
@@ -191,7 +191,7 @@
         "releaseCount90d": 30,
         "releaseDownloads": {
           "stable": 36,
-          "testing": 0
+          "testing": 1
         },
         "ci": {
           "status": "none",
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 27,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 12172,
+          "stable": 12193,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -364,14 +364,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1787494256,
-        "downloadCount": 3,
+        "downloadCount": 4,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/PolyglotTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-23T16:06:48.108Z",
+        "fetchedAt": "2026-08-23T17:07:13.994Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4938,
+    "remaining": 4969,
     "limit": 5000,
-    "resetAt": "2026-08-23T16:07:09.000Z"
+    "resetAt": "2026-08-23T18:07:14.000Z"
   },
   "errors": []
 }
