@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-08-31T17:12:12.565Z",
+  "snapshotAt": "2026-08-31T18:17:23.910Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-08-31T01:16:48Z",
+    "lastCommitAt": "2026-08-31T17:57:25Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-08-31T01:16:48Z"
+    "manifestLastModifiedAt": "2026-08-31T17:57:25Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-23T15:04:34Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,14 +181,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-23T15:56:27Z",
         "openIssues": 0,
         "latestRelease": {
           "tag": "testing_1.2.1.33",
           "publishedAt": "2026-08-23T15:56:24Z"
         },
-        "releaseCount90d": 29,
+        "releaseCount90d": 27,
         "releaseDownloads": {
           "stable": 45,
           "testing": 5
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 29,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 7,
         "releaseDownloads": {
-          "stable": 14364,
+          "stable": 14373,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -326,14 +326,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1786836936,
-        "downloadCount": 9,
+        "downloadCount": 10,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TerrorTweaks"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -342,7 +342,7 @@
         },
         "releaseCount90d": 9,
         "releaseDownloads": {
-          "stable": 6,
+          "stable": 7,
           "testing": null
         },
         "ci": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-08-31T17:12:12.565Z",
+        "fetchedAt": "2026-08-31T18:17:23.910Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4938,
+    "remaining": 4969,
     "limit": 5000,
-    "resetAt": "2026-08-31T17:15:04.000Z"
+    "resetAt": "2026-08-31T19:17:24.000Z"
   },
   "errors": []
 }
