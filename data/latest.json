@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-09-06T21:10:46.788Z",
+  "snapshotAt": "2026-09-06T22:11:11.652Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-09-06T20:39:05Z",
+    "lastCommitAt": "2026-09-06T21:54:41Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-09-06T20:39:05Z"
+    "manifestLastModifiedAt": "2026-09-06T21:54:41Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-23T15:04:34Z",
         "openIssues": 0,
         "latestRelease": {
@@ -98,14 +98,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785364861,
-        "downloadCount": 224,
+        "downloadCount": 226,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/CrystalTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -114,7 +114,7 @@
         },
         "releaseCount90d": 12,
         "releaseDownloads": {
-          "stable": 8,
+          "stable": 10,
           "testing": null
         },
         "ci": {
@@ -136,14 +136,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785365341,
-        "downloadCount": 73,
+        "downloadCount": 74,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -152,7 +152,7 @@
         },
         "releaseCount90d": 10,
         "releaseDownloads": {
-          "stable": 5,
+          "stable": 7,
           "testing": null
         },
         "ci": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-23T15:56:27Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 30,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 6,
         "releaseDownloads": {
-          "stable": 15454,
+          "stable": 15465,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-06T21:10:46.788Z",
+        "fetchedAt": "2026-09-06T22:11:11.652Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4952,
+    "remaining": 4969,
     "limit": 5000,
-    "resetAt": "2026-09-06T21:12:39.000Z"
+    "resetAt": "2026-09-06T23:11:12.000Z"
   },
   "errors": []
 }
