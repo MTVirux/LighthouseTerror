@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-09-07T11:12:49.473Z",
+  "snapshotAt": "2026-09-07T12:21:33.617Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-09-07T10:31:01Z",
+    "lastCommitAt": "2026-09-07T11:30:38Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-09-07T10:31:01Z"
+    "manifestLastModifiedAt": "2026-09-07T11:30:38Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-23T15:04:34Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-23T15:56:27Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-14T18:38:22Z",
         "openIssues": 30,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 6,
         "releaseDownloads": {
-          "stable": 15549,
+          "stable": 15553,
           "testing": null
         },
         "ci": {
@@ -250,14 +250,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785366294,
-        "downloadCount": 42,
+        "downloadCount": 45,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TempoTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -266,7 +266,7 @@
         },
         "releaseCount90d": 4,
         "releaseDownloads": {
-          "stable": 6,
+          "stable": 8,
           "testing": null
         },
         "ci": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-07T11:12:49.473Z",
+        "fetchedAt": "2026-09-07T12:21:33.617Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4959,
+    "remaining": 4981,
     "limit": 5000,
-    "resetAt": "2026-09-07T11:14:42.000Z"
+    "resetAt": "2026-09-07T13:21:33.000Z"
   },
   "errors": []
 }
