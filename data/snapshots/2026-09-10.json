@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-09-10T15:13:42.595Z",
+  "snapshotAt": "2026-09-10T16:14:23.151Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
@@ -29,14 +29,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
           "tag": "testing_1.7.0.3",
           "publishedAt": "2026-08-18T07:09:37Z"
         },
-        "releaseCount90d": 7,
+        "releaseCount90d": 5,
         "releaseDownloads": {
           "stable": 64,
           "testing": 4
@@ -67,14 +67,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-23T15:04:34Z",
         "openIssues": 0,
         "latestRelease": {
           "tag": "testing_1.69.420.1345",
           "publishedAt": "2026-08-19T12:05:51Z"
         },
-        "releaseCount90d": 21,
+        "releaseCount90d": 20,
         "releaseDownloads": {
           "stable": 22,
           "testing": 5
@@ -105,14 +105,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
           "tag": "1.7.0.9",
           "publishedAt": "2026-07-29T22:41:00Z"
         },
-        "releaseCount90d": 12,
+        "releaseCount90d": 9,
         "releaseDownloads": {
           "stable": 12,
           "testing": null
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-23T15:56:27Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-09-08T10:43:56Z",
         "openIssues": 30,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 7,
         "releaseDownloads": {
-          "stable": 8320,
+          "stable": 8377,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-15T23:35:37Z",
         "openIssues": 0,
         "latestRelease": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-10T15:13:42.595Z",
+        "fetchedAt": "2026-09-10T16:14:23.151Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4973,
+    "remaining": 4969,
     "limit": 5000,
-    "resetAt": "2026-09-10T16:13:43.000Z"
+    "resetAt": "2026-09-10T17:14:23.000Z"
   },
   "errors": []
 }
