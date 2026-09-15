@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-09-15T13:14:18.092Z",
+  "snapshotAt": "2026-09-15T14:15:07.782Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-09-14T07:31:08Z",
+    "lastCommitAt": "2026-09-15T14:14:05Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-09-14T07:31:08Z"
+    "manifestLastModifiedAt": "2026-09-15T14:14:05Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1787036979,
-        "downloadCount": 907,
+        "downloadCount": 908,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-08-18T07:09:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -38,7 +38,7 @@
         },
         "releaseCount90d": 5,
         "releaseDownloads": {
-          "stable": 73,
+          "stable": 74,
           "testing": 4
         },
         "ci": {
@@ -60,14 +60,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1787141152,
-        "downloadCount": 209,
+        "downloadCount": 210,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/MarketTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-08-23T15:04:34Z",
         "openIssues": 0,
         "latestRelease": {
@@ -76,7 +76,7 @@
         },
         "releaseCount90d": 20,
         "releaseDownloads": {
-          "stable": 22,
+          "stable": 23,
           "testing": 6
         },
         "ci": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-08-13T23:11:59Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-09-11T21:42:57Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-09-08T10:43:56Z",
         "openIssues": 30,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 6,
         "releaseDownloads": {
-          "stable": 11522,
+          "stable": 11529,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -326,14 +326,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1789162703,
-        "downloadCount": 18,
+        "downloadCount": 20,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TerrorTweaks"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-09-11T21:38:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -342,7 +342,7 @@
         },
         "releaseCount90d": 11,
         "releaseDownloads": {
-          "stable": 6,
+          "stable": 8,
           "testing": null
         },
         "ci": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-09-15T13:14:18.092Z",
+        "fetchedAt": "2026-09-15T14:15:07.782Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4944,
+    "remaining": 4969,
     "limit": 5000,
-    "resetAt": "2026-09-15T13:20:34.000Z"
+    "resetAt": "2026-09-15T15:15:08.000Z"
   },
   "errors": []
 }
