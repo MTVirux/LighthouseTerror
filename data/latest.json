@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-10-03T13:46:16.162Z",
+  "snapshotAt": "2026-10-03T14:57:51.860Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-10-03T11:58:56Z",
+    "lastCommitAt": "2026-10-03T13:51:55Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-10-03T11:58:56Z"
+    "manifestLastModifiedAt": "2026-10-03T13:51:55Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-09-16T07:45:12Z",
         "openIssues": 0,
         "latestRelease": {
@@ -56,10 +56,10 @@
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/MarketTerror/develop/images/icon.png",
       "manifest": {
         "stableVersion": "1.0.1.7",
-        "testingVersion": "1.69.420.1345",
+        "testingVersion": "1.69.420.1348",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1787141152,
+        "lastUpdate": 1791035227,
         "downloadCount": 218,
         "isHide": false,
         "isTestingExclusive": false,
@@ -67,17 +67,17 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
-        "lastCommitAt": "2026-10-03T13:46:02Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
+        "lastCommitAt": "2026-10-03T13:47:09Z",
         "openIssues": 0,
         "latestRelease": {
-          "tag": "testing_1.69.420.1347",
-          "publishedAt": "2026-10-03T13:43:17Z"
+          "tag": "testing_1.69.420.1348",
+          "publishedAt": "2026-10-03T13:47:06Z"
         },
-        "releaseCount90d": 21,
+        "releaseCount90d": 22,
         "releaseDownloads": {
           "stable": 25,
-          "testing": 6
+          "testing": 0
         },
         "ci": {
           "status": "none",
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-08-13T23:11:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-09-30T20:20:08Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-09-11T21:42:57Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-09-17T12:21:05Z",
         "openIssues": 30,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 6,
         "releaseDownloads": {
-          "stable": 13165,
+          "stable": 13171,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-09-11T21:38:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-03T13:46:16.162Z",
+        "fetchedAt": "2026-10-03T14:57:51.860Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": {
@@ -395,7 +395,7 @@
   "rateLimit": {
     "remaining": 4969,
     "limit": 5000,
-    "resetAt": "2026-10-03T14:46:16.000Z"
+    "resetAt": "2026-10-03T15:57:52.000Z"
   },
   "errors": []
 }
