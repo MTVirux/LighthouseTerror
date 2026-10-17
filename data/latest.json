@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-10-17T05:12:13.616Z",
+  "snapshotAt": "2026-10-17T06:20:24.284Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-10-16T15:17:58Z",
+    "lastCommitAt": "2026-10-17T05:43:09Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-10-16T15:17:58Z"
+    "manifestLastModifiedAt": "2026-10-17T05:43:09Z"
   },
   "plugins": [
     {
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-09-16T07:45:12Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-10-03T17:08:55Z",
         "openIssues": 0,
         "latestRelease": {
@@ -105,7 +105,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-10-10T17:35:36Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-09-30T20:20:08Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +181,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-09-11T21:42:57Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,16 +219,16 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-10-13T11:34:36Z",
-        "openIssues": 30,
+        "openIssues": 29,
         "latestRelease": {
           "tag": "v2.10.3.9",
           "publishedAt": "2026-10-13T09:45:04Z"
         },
         "releaseCount90d": 8,
         "releaseDownloads": {
-          "stable": 8359,
+          "stable": 8385,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -326,14 +326,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1789162703,
-        "downloadCount": 23,
+        "downloadCount": 24,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TerrorTweaks"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-09-11T21:38:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-17T05:12:13.616Z",
+        "fetchedAt": "2026-10-17T06:20:24.284Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4938,
+    "remaining": 4973,
     "limit": 5000,
-    "resetAt": "2026-10-17T05:14:38.000Z"
+    "resetAt": "2026-10-17T07:20:24.000Z"
   },
   "errors": []
 }
