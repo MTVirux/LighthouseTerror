@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-10-22T14:14:48.358Z",
+  "snapshotAt": "2026-10-22T15:14:13.473Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
@@ -29,7 +29,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-09-16T07:45:12Z",
         "openIssues": 0,
         "latestRelease": {
@@ -67,17 +67,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-10-03T17:08:55Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "testing_1.69.420.1349",
-          "publishedAt": "2026-10-03T17:08:52Z"
-        },
-        "releaseCount90d": 19,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 25,
-          "testing": 4
+          "stable": null,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -105,7 +102,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-10-21T21:57:16Z",
         "openIssues": 0,
         "latestRelease": {
@@ -143,7 +140,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-09-30T20:20:08Z",
         "openIssues": 0,
         "latestRelease": {
@@ -181,7 +178,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-09-11T21:42:57Z",
         "openIssues": 0,
         "latestRelease": {
@@ -219,7 +216,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-10-20T20:31:57Z",
         "openIssues": 29,
         "latestRelease": {
@@ -228,7 +225,7 @@
         },
         "releaseCount90d": 9,
         "releaseDownloads": {
-          "stable": 4543,
+          "stable": 4670,
           "testing": null
         },
         "ci": {
@@ -257,7 +254,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +292,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,16 +330,13 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-09-11T21:38:24Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.0.0.7",
-          "publishedAt": "2026-09-11T21:38:22Z"
-        },
-        "releaseCount90d": 11,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 10,
+          "stable": null,
           "testing": null
         },
         "ci": {
@@ -371,17 +365,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T14:14:48.358Z",
+        "fetchedAt": "2026-10-22T15:14:13.473Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.0.0.1",
-          "publishedAt": "2026-08-23T14:02:31Z"
-        },
-        "releaseCount90d": 5,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 12,
-          "testing": 1
+          "stable": null,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -393,7 +384,7 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4969,
+    "remaining": 4941,
     "limit": 5000,
     "resetAt": "2026-10-22T15:14:48.000Z"
   },
