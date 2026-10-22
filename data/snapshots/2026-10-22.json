@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-10-22T15:14:13.473Z",
+  "snapshotAt": "2026-10-22T16:16:01.430Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-10-22T13:52:49Z",
+    "lastCommitAt": "2026-10-22T15:55:05Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-10-22T13:52:49Z"
+    "manifestLastModifiedAt": "2026-10-22T15:55:05Z"
   },
   "plugins": [
     {
@@ -22,24 +22,21 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1789544710,
-        "downloadCount": 941,
+        "downloadCount": 935,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-09-16T07:45:12Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "testing_1.7.0.4",
-          "publishedAt": "2026-09-16T07:45:09Z"
-        },
-        "releaseCount90d": 4,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 88,
-          "testing": 8
+          "stable": null,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -67,7 +64,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-10-03T17:08:55Z",
         "openIssues": 0,
         "latestRelease": null,
@@ -102,17 +99,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-10-21T21:57:16Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "testing_1.7.0.12",
-          "publishedAt": "2026-10-20T22:25:37Z"
-        },
-        "releaseCount90d": 6,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 6,
-          "testing": 1
+          "stable": null,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -140,16 +134,13 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-09-30T20:20:08Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.1.1.14",
-          "publishedAt": "2026-09-30T20:08:22Z"
-        },
-        "releaseCount90d": 6,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 19,
+          "stable": null,
           "testing": null
         },
         "ci": {
@@ -178,17 +169,14 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-09-11T21:42:57Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "testing_1.3.0.0",
-          "publishedAt": "2026-09-11T21:42:54Z"
-        },
-        "releaseCount90d": 19,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 89,
-          "testing": 8
+          "stable": null,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -216,23 +204,20 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-10-20T20:31:57Z",
         "openIssues": 29,
-        "latestRelease": {
-          "tag": "v2.10.3.11",
-          "publishedAt": "2026-10-20T20:31:54Z"
-        },
-        "releaseCount90d": 9,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 4670,
+          "stable": null,
           "testing": null
         },
         "ci": {
           "status": "none",
-          "workflow": "IINACT build",
-          "runUrl": "https://github.com/marzent/IINACT/actions/runs/39499850001",
-          "ranAt": "2026-10-20T21:22:41Z"
+          "workflow": null,
+          "runUrl": null,
+          "ranAt": null
         }
       }
     },
@@ -254,16 +239,13 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.1.0.7",
-          "publishedAt": "2026-07-29T23:04:53Z"
-        },
-        "releaseCount90d": 2,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 17,
+          "stable": null,
           "testing": null
         },
         "ci": {
@@ -292,16 +274,13 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
-        "latestRelease": {
-          "tag": "1.0.0.6",
-          "publishedAt": "2026-08-15T03:26:46Z"
-        },
-        "releaseCount90d": 6,
+        "latestRelease": null,
+        "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 37,
+          "stable": null,
           "testing": null
         },
         "ci": {
@@ -330,7 +309,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-09-11T21:38:24Z",
         "openIssues": 0,
         "latestRelease": null,
@@ -358,14 +337,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1787494256,
-        "downloadCount": 16,
+        "downloadCount": 0,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/PolyglotTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-10-22T15:14:13.473Z",
+        "fetchedAt": "2026-10-22T16:16:01.430Z",
         "lastCommitAt": "2026-08-23T14:10:58Z",
         "openIssues": 0,
         "latestRelease": null,
@@ -384,9 +363,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4941,
+    "remaining": 4973,
     "limit": 5000,
-    "resetAt": "2026-10-22T15:14:48.000Z"
+    "resetAt": "2026-10-22T17:16:01.000Z"
   },
   "errors": []
 }
