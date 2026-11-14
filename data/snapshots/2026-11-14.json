@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-11-14T17:06:58.313Z",
+  "snapshotAt": "2026-11-14T18:09:19.523Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-11-14T16:47:02Z",
+    "lastCommitAt": "2026-11-14T17:45:15Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-11-14T16:47:02Z"
+    "manifestLastModifiedAt": "2026-11-14T17:45:15Z"
   },
   "plugins": [
     {
@@ -17,19 +17,19 @@
       "author": "MTVirux",
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/GlamorousTerror/main/images/icon.png",
       "manifest": {
-        "stableVersion": "1.7.0.2",
+        "stableVersion": "1.7.0.4",
         "testingVersion": "1.7.0.4",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1789544710,
-        "downloadCount": 952,
+        "lastUpdate": 1794675758,
+        "downloadCount": 1060,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-11-14T17:02:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -38,8 +38,8 @@
         },
         "releaseCount90d": 3,
         "releaseDownloads": {
-          "stable": 94,
-          "testing": 10
+          "stable": 2,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -67,7 +67,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-11-06T01:50:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -93,19 +93,19 @@
       "author": "MTVirux",
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/CrystalTerror/main/images/icon.png",
       "manifest": {
-        "stableVersion": "1.7.0.11",
+        "stableVersion": "1.7.0.12",
         "testingVersion": "1.7.0.12",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1792535138,
-        "downloadCount": 288,
+        "lastUpdate": 1794675729,
+        "downloadCount": 368,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/CrystalTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-11-14T17:02:11Z",
         "openIssues": 0,
         "latestRelease": {
@@ -114,8 +114,8 @@
         },
         "releaseCount90d": 4,
         "releaseDownloads": {
-          "stable": 24,
-          "testing": 3
+          "stable": 1,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -143,7 +143,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-09-30T20:20:08Z",
         "openIssues": 0,
         "latestRelease": {
@@ -169,19 +169,19 @@
       "author": "MTVirux",
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/DamageTerror/master/images/icon.png",
       "manifest": {
-        "stableVersion": "1.2.1.18",
+        "stableVersion": "1.3.0.0",
         "testingVersion": "1.3.0.0",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1789162976,
-        "downloadCount": 529,
+        "lastUpdate": 1794675656,
+        "downloadCount": 530,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-11-14T17:01:01Z",
         "openIssues": 0,
         "latestRelease": {
@@ -190,8 +190,8 @@
         },
         "releaseCount90d": 14,
         "releaseDownloads": {
-          "stable": 113,
-          "testing": 9
+          "stable": 114,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-11-10T10:04:09Z",
         "openIssues": 30,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 6,
         "releaseDownloads": {
-          "stable": 8557,
+          "stable": 8589,
           "testing": null
         },
         "ci": {
@@ -257,7 +257,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -295,7 +295,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-09-11T21:38:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -359,19 +359,19 @@
       "author": "MTVirux",
       "iconUrl": "https://raw.githubusercontent.com/MTVirux/PolyglotTerror/main/images/icon.png",
       "manifest": {
-        "stableVersion": "1.0.0.1",
+        "stableVersion": "1.0.0.2",
         "testingVersion": "1.0.0.2",
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
-        "lastUpdate": 1787494256,
-        "downloadCount": 16,
+        "lastUpdate": 1794675748,
+        "downloadCount": 22,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/PolyglotTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-14T17:06:58.313Z",
+        "fetchedAt": "2026-11-14T18:09:19.523Z",
         "lastCommitAt": "2026-11-14T17:02:30Z",
         "openIssues": 0,
         "latestRelease": {
@@ -380,8 +380,8 @@
         },
         "releaseCount90d": 6,
         "releaseDownloads": {
-          "stable": 12,
-          "testing": 1
+          "stable": 1,
+          "testing": null
         },
         "ci": {
           "status": "none",
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4944,
+    "remaining": 4969,
     "limit": 5000,
-    "resetAt": "2026-11-14T17:08:22.000Z"
+    "resetAt": "2026-11-14T19:09:19.000Z"
   },
   "errors": []
 }
