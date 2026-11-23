@@ -1,14 +1,14 @@
 {
   "schema": 1,
-  "snapshotAt": "2026-11-23T11:08:05.679Z",
+  "snapshotAt": "2026-11-23T12:13:53.296Z",
   "source": {
     "repoJsonUrl": "https://raw.githubusercontent.com/MTVirux/SeaOfTerror/main/repo.json",
     "groupRepo": "MTVirux/SeaOfTerror"
   },
   "groupRepo": {
-    "lastCommitAt": "2026-11-23T00:35:22Z",
+    "lastCommitAt": "2026-11-23T11:23:55Z",
     "openIssues": 0,
-    "manifestLastModifiedAt": "2026-11-23T00:35:22Z"
+    "manifestLastModifiedAt": "2026-11-23T11:23:55Z"
   },
   "plugins": [
     {
@@ -22,14 +22,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1794675758,
-        "downloadCount": 1090,
+        "downloadCount": 1091,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/GlamorousTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-11-14T17:02:41Z",
         "openIssues": 0,
         "latestRelease": {
@@ -60,14 +60,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1793929849,
-        "downloadCount": 315,
+        "downloadCount": 316,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/MarketTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-11-06T01:50:50Z",
         "openIssues": 0,
         "latestRelease": {
@@ -98,14 +98,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1794675729,
-        "downloadCount": 371,
+        "downloadCount": 372,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/CrystalTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-11-14T17:02:11Z",
         "openIssues": 0,
         "latestRelease": {
@@ -114,7 +114,7 @@
         },
         "releaseCount90d": 4,
         "releaseDownloads": {
-          "stable": 4,
+          "stable": 5,
           "testing": null
         },
         "ci": {
@@ -136,14 +136,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1790798903,
-        "downloadCount": 116,
+        "downloadCount": 117,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/Kaleidoscope"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-09-30T20:20:08Z",
         "openIssues": 0,
         "latestRelease": {
@@ -152,7 +152,7 @@
         },
         "releaseCount90d": 2,
         "releaseDownloads": {
-          "stable": 24,
+          "stable": 25,
           "testing": null
         },
         "ci": {
@@ -174,14 +174,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1794721464,
-        "downloadCount": 725,
+        "downloadCount": 726,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/DamageTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-11-15T05:44:25Z",
         "openIssues": 0,
         "latestRelease": {
@@ -190,7 +190,7 @@
         },
         "releaseCount90d": 4,
         "releaseDownloads": {
-          "stable": 40,
+          "stable": 41,
           "testing": null
         },
         "ci": {
@@ -219,7 +219,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-11-10T10:04:09Z",
         "openIssues": 32,
         "latestRelease": {
@@ -228,7 +228,7 @@
         },
         "releaseCount90d": 6,
         "releaseDownloads": {
-          "stable": 11821,
+          "stable": 11831,
           "testing": null
         },
         "ci": {
@@ -250,14 +250,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1785366294,
-        "downloadCount": 66,
+        "downloadCount": 67,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/TempoTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-08-13T23:12:06Z",
         "openIssues": 0,
         "latestRelease": {
@@ -266,7 +266,7 @@
         },
         "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 21,
+          "stable": 22,
           "testing": null
         },
         "ci": {
@@ -288,14 +288,14 @@
         "dalamudApiLevel": 15,
         "testingDalamudApiLevel": 15,
         "lastUpdate": 1786764407,
-        "downloadCount": 74,
+        "downloadCount": 75,
         "isHide": false,
         "isTestingExclusive": false,
         "repoUrl": "https://github.com/MTVirux/RelicTerror"
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-08-15T03:26:48Z",
         "openIssues": 0,
         "latestRelease": {
@@ -304,7 +304,7 @@
         },
         "releaseCount90d": 0,
         "releaseDownloads": {
-          "stable": 44,
+          "stable": 45,
           "testing": null
         },
         "ci": {
@@ -333,7 +333,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-09-11T21:38:24Z",
         "openIssues": 0,
         "latestRelease": {
@@ -371,7 +371,7 @@
       },
       "github": {
         "ok": true,
-        "fetchedAt": "2026-11-23T11:08:05.679Z",
+        "fetchedAt": "2026-11-23T12:13:53.296Z",
         "lastCommitAt": "2026-11-14T17:02:30Z",
         "openIssues": 0,
         "latestRelease": {
@@ -393,9 +393,9 @@
     }
   ],
   "rateLimit": {
-    "remaining": 4938,
+    "remaining": 4969,
     "limit": 5000,
-    "resetAt": "2026-11-23T11:09:44.000Z"
+    "resetAt": "2026-11-23T13:13:53.000Z"
   },
   "errors": []
 }
